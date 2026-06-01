@@ -1,0 +1,736 @@
+state,county,datetime,year,week
+California,Los Angeles,2023-01-21 20:50:34,2023,3
+California,Plumas,2023-04-30 22:28:00,2023,18
+California,Riverside,2023-05-22 21:11:50,2023,21
+California,Kern,2023-05-18 09:51:00,2023,20
+California,Kern,2023-05-22 20:32:00,2023,21
+California,Kern,2023-05-17 19:30:00,2023,20
+California,Kern,2023-05-15 19:06:00,2023,20
+California,Kern,2023-05-14 15:54:00,2023,20
+California,Kern,2023-05-01 18:39:00,2023,18
+California,Kern,2023-05-12 20:59:00,2023,19
+California,Kern,2023-05-21 17:02:00,2023,21
+California,Kern,2023-05-28 06:57:00,2023,22
+California,Kern,2023-05-28 07:56:00,2023,22
+California,San Benito,2023-05-29 22:56:11,2023,22
+California,Fresno,2023-06-03 19:25:31,2023,22
+California,San Bernardino,2023-05-24 19:02:00,2023,21
+California,Inyo,2023-04-17 18:49:00,2023,16
+California,Shasta,2023-06-04 00:59:00,2023,23
+California,Yuba,2023-06-15 22:45:09,2023,24
+California,Santa Barbara,2023-06-23 21:16:00,2023,25
+California,Fresno,2023-06-18 18:31:03,2023,25
+California,Lassen,2023-05-28 19:06:26,2023,22
+California,San Diego,2023-06-21 19:50:16,2023,25
+California,San Diego,2023-06-20 01:33:46,2023,25
+California,San Diego,2023-04-23 00:32:54,2023,17
+California,Tulare,2023-06-05 20:26:00,2023,23
+California,San Bernardino,2023-07-14 18:04:00,2023,28
+California,Imperial,2023-07-18 16:13:56,2023,29
+California,Riverside,2023-07-14 22:30:46,2023,28
+California,Los Angeles,2023-07-16 23:01:08,2023,29
+California,Modoc,2023-05-22 19:44:00,2023,21
+California,Modoc,2023-06-27 18:19:00,2023,26
+California,Modoc,2023-05-24 21:04:00,2023,21
+California,Modoc,2023-05-20 20:14:00,2023,20
+California,San Bernardino,2023-04-26 17:16:00,2023,17
+California,Santa Barbara,2023-07-24 16:30:00,2023,30
+California,Kern,2023-07-23 23:51:00,2023,30
+California,Kern,2023-07-07 21:15:00,2023,27
+California,Kern,2023-07-19 19:55:00,2023,29
+California,Kern,2023-07-15 18:59:00,2023,28
+California,Kern,2023-07-14 00:37:00,2023,28
+California,Kern,2023-06-30 21:11:00,2023,26
+California,Kern,2023-07-13 17:09:00,2023,28
+California,Kern,2023-07-13 23:43:00,2023,28
+California,Kern,2023-07-11 21:30:00,2023,28
+California,Kern,2023-07-13 19:16:00,2023,28
+California,Kern,2023-06-27 23:02:00,2023,26
+California,Kern,2023-07-04 00:32:00,2023,27
+California,Kern,2023-07-04 20:38:00,2023,27
+California,Kern,2023-07-03 21:25:00,2023,27
+California,Kern,2023-07-03 09:00:00,2023,27
+California,Kern,2023-06-05 16:30:00,2023,23
+California,Kern,2023-07-02 18:01:00,2023,27
+California,Kern,2023-07-01 04:32:00,2023,26
+California,Kern,2023-07-24 19:14:00,2023,30
+California,Kern,2023-06-27 22:23:00,2023,26
+California,Kern,2023-06-25 21:27:00,2023,26
+California,Kern,2023-06-24 14:08:00,2023,25
+California,Kern,2023-06-22 20:47:00,2023,25
+California,Kern,2023-06-20 22:28:00,2023,25
+California,Kern,2023-06-13 17:03:00,2023,24
+California,Kern,2023-06-08 19:09:00,2023,23
+California,Kern,2023-06-06 00:46:00,2023,23
+California,Kern,2023-06-06 14:52:00,2023,23
+California,Kern,2023-06-04 20:51:00,2023,23
+California,Los Angeles,2023-07-24 20:51:27,2023,30
+California,Kern,2023-07-30 03:32:00,2023,31
+California,Kern,2023-07-26 20:40:00,2023,30
+California,Kern,2023-07-29 04:38:00,2023,30
+California,Kern,2023-08-01 06:33:00,2023,31
+California,Kern,2023-07-31 23:00:00,2023,31
+California,Kern,2023-08-01 21:32:00,2023,31
+California,Kern,2023-08-04 21:49:00,2023,31
+California,Kern,2023-08-06 19:51:00,2023,32
+California,Kern,2023-08-02 23:19:00,2023,31
+California,Kern,2023-08-07 19:23:00,2023,32
+California,Kern,2023-08-04 23:44:00,2023,31
+California,Kern,2023-08-02 19:17:00,2023,31
+California,Kern,2023-08-04 02:10:00,2023,31
+California,San Diego,2023-08-09 18:20:23,2023,32
+California,Plumas,2023-06-03 22:57:00,2023,22
+California,Plumas,2023-04-25 19:59:00,2023,17
+California,Kern,2023-08-09 19:26:00,2023,32
+California,Kern,2023-08-10 00:48:00,2023,32
+California,Imperial,2023-07-16 18:15:00,2023,29
+California,Imperial,2023-07-07 00:57:57,2023,27
+California,San Diego,2023-07-27 23:34:47,2023,30
+California,Riverside,2023-08-12 22:45:41,2023,32
+California,Humboldt,2023-08-15 19:12:00,2023,33
+California,Humboldt,2023-08-17 00:22:30,2023,33
+California,Kern,2023-08-14 18:15:00,2023,33
+California,Kern,2023-08-11 17:39:00,2023,32
+California,Kern,2023-08-14 21:16:00,2023,33
+California,Kern,2023-08-14 01:38:00,2023,33
+California,Kern,2023-08-16 17:59:00,2023,33
+California,San Diego,2023-08-17 19:11:48,2023,33
+California,Humboldt,2023-08-15 14:30:46,2023,33
+California,Humboldt,2023-08-15 20:12:27,2023,33
+California,Santa Barbara,2023-08-19 20:25:00,2023,33
+California,Kern,2023-08-05 18:29:00,2023,31
+California,San Bernardino,2023-07-04 19:35:58,2023,27
+California,Siskiyou,2023-08-16 09:43:34,2023,33
+California,Siskiyou,2023-08-15 18:49:25,2023,33
+California,Siskiyou,2023-08-15 18:03:46,2023,33
+California,San Luis Obispo,2023-08-11 23:11:00,2023,32
+California,Shasta,2023-07-31 20:24:00,2023,31
+California,Kern,2023-08-18 17:54:00,2023,33
+California,Riverside,2023-07-12 02:33:38,2023,28
+California,San Bernardino,2023-06-17 18:32:00,2023,24
+California,Riverside,2023-06-10 22:41:00,2023,23
+California,San Luis Obispo,2023-05-19 21:30:00,2023,20
+California,Trinity,2023-07-02 12:17:11,2023,27
+California,Kern,2023-05-01 06:30:00,2023,18
+California,Kern,2023-05-28 08:42:56,2023,22
+California,Kern,2023-06-22 04:37:34,2023,25
+California,San Luis Obispo,2023-05-19 23:26:00,2023,20
+California,Kern,2023-05-28 08:45:56,2023,22
+California,San Luis Obispo,2023-05-28 13:31:20,2023,22
+California,Kern,2023-06-08 19:30:00,2023,23
+California,Kern,2023-07-14 20:33:00,2023,28
+California,Kern,2023-05-29 17:52:00,2023,22
+California,Kern,2023-05-07 23:22:17,2023,19
+California,Kern,2023-06-08 23:34:39,2023,23
+California,San Luis Obispo,2023-05-15 19:18:00,2023,20
+California,Kern,2023-07-07 01:10:00,2023,27
+California,San Luis Obispo,2023-06-25 00:48:00,2023,26
+California,San Luis Obispo,2023-05-28 09:55:00,2023,22
+California,Kern,2023-07-02 15:49:00,2023,27
+California,Kern,2023-06-23 19:03:00,2023,25
+California,Kern,2023-05-15 03:59:00,2023,20
+California,Ventura,2023-08-31 23:30:14,2023,35
+California,Humboldt,2023-08-21 21:15:53,2023,34
+California,Glenn,2023-07-05 02:24:33,2023,27
+California,San Mateo,2023-06-20 21:20:21,2023,25
+California,Butte,2023-08-15 23:29:28,2023,33
+California,Placer,2023-08-24 00:26:21,2023,34
+California,Kern,2023-07-05 11:54:00,2023,27
+California,Imperial,2023-07-18 15:52:53,2023,29
+California,Imperial,2023-03-11 00:04:00,2023,10
+California,Imperial,2023-04-20 10:40:00,2023,16
+California,Shasta,2023-07-24 23:14:54,2023,30
+California,Lassen,2023-08-17 22:41:37,2023,33
+California,Modoc,2023-08-29 19:11:00,2023,35
+California,Lassen,2023-08-30 04:55:33,2023,35
+California,Ventura,2023-07-27 03:05:00,2023,30
+California,Fresno,2023-09-07 19:14:07,2023,36
+California,Kern,2023-07-03 20:59:47,2023,27
+California,Humboldt,2023-08-15 23:23:04,2023,33
+California,Sierra,2023-08-18 00:43:21,2023,33
+California,Calaveras,2023-09-10 19:46:02,2023,37
+California,Kern,2023-06-10 23:54:45,2023,23
+California,Lassen,2023-06-23 22:53:29,2023,25
+California,Shasta,2023-09-20 17:37:30,2023,38
+California,San Bernardino,2023-05-24 08:57:12,2023,21
+California,Riverside,2023-07-31 12:05:00,2023,31
+California,San Bernardino,2023-07-28 19:09:00,2023,30
+California,Merced,2023-10-04 17:00:10,2023,40
+California,El Dorado,2023-05-26 20:49:43,2023,21
+California,Alpine,2023-09-13 04:56:00,2023,37
+California,Kern,2023-10-08 23:05:00,2023,41
+California,Los Angeles,2023-07-25 15:50:57,2023,30
+California,Kern,2023-09-18 16:25:00,2023,38
+California,Kern,2023-09-09 01:41:00,2023,36
+California,Kern,2023-09-16 21:21:00,2023,37
+California,Kern,2023-09-15 18:09:00,2023,37
+California,Kern,2023-09-09 17:34:00,2023,36
+California,Kern,2023-09-21 19:56:00,2023,38
+California,Kern,2023-09-10 03:35:00,2023,37
+California,Kern,2023-09-22 14:01:00,2023,38
+California,Kern,2023-09-27 03:32:00,2023,39
+California,Kern,2023-09-25 21:18:00,2023,39
+California,Kern,2023-10-01 19:33:00,2023,40
+California,Kern,2023-09-29 21:13:00,2023,39
+California,Kern,2023-10-06 23:06:00,2023,40
+California,Kern,2023-07-02 15:53:04,2023,27
+California,Kern,2023-10-12 19:37:00,2023,41
+California,Kern,2023-10-10 18:34:00,2023,41
+California,Kern,2023-10-16 20:48:00,2023,42
+California,Humboldt,2023-08-15 20:21:00,2023,33
+California,Humboldt,2023-08-25 15:44:39,2023,34
+California,Humboldt,2023-08-15 17:06:00,2023,33
+California,Siskiyou,2023-06-06 03:51:00,2023,23
+California,Tehama,2023-08-15 17:52:00,2023,33
+California,Nevada,2023-08-16 21:24:20,2023,33
+California,Monterey,2023-08-13 21:43:48,2023,33
+California,Ventura,2023-11-02 10:42:00,2023,44
+California,San Luis Obispo,2023-11-04 18:32:54,2023,44
+California,Kern,2023-11-02 17:40:00,2023,44
+California,Kern,2023-11-02 17:55:00,2023,44
+California,Kern,2023-10-30 00:03:00,2023,44
+California,Kern,2023-10-28 21:30:00,2023,43
+California,Kern,2023-10-29 09:21:00,2023,44
+California,Kern,2023-08-07 23:20:00,2023,32
+California,Tuolumne,2023-06-16 00:08:00,2023,24
+California,Humboldt,2023-09-29 18:56:49,2023,39
+California,Santa Barbara,2023-11-09 20:15:00,2023,45
+California,Kern,2023-09-19 19:21:00,2023,38
+California,Kern,2023-10-18 11:51:00,2023,42
+California,Kern,2023-05-11 20:30:00,2023,19
+California,Kern,2023-10-15 22:28:00,2023,42
+California,Kern,2023-11-21 16:42:00,2023,47
+California,Kern,2023-10-07 23:52:00,2023,40
+California,Kern,2023-11-18 19:37:00,2023,46
+California,Kern,2023-11-16 19:35:00,2023,46
+California,Kern,2023-06-12 17:03:00,2023,24
+California,Kern,2023-11-10 17:32:00,2023,45
+California,Kern,2023-11-09 22:52:00,2023,45
+California,Kern,2023-11-08 19:04:00,2023,45
+California,San Luis Obispo,2023-09-15 01:30:00,2023,37
+California,Siskiyou,2023-08-25 06:59:35,2023,34
+California,Siskiyou,2023-08-16 18:34:03,2023,33
+California,Siskiyou,2023-08-15 21:38:00,2023,33
+California,Kern,2023-08-02 14:30:19,2023,31
+California,Siskiyou,2023-08-15 14:14:08,2023,33
+California,Siskiyou,2023-08-15 19:54:26,2023,33
+California,Siskiyou,2023-09-17 18:13:53,2023,38
+California,Los Angeles,2023-07-10 22:16:46,2023,28
+California,Mariposa,2023-06-29 16:20:00,2023,26
+California,Tulare,2023-08-15 23:46:00,2023,33
+California,Tulare,2023-08-17 18:07:00,2023,33
+California,Tulare,2023-10-16 21:19:58,2023,42
+California,San Diego,2023-12-15 23:11:29,2023,50
+California,Tuolumne,2023-09-11 17:21:00,2023,37
+California,Tuolumne,2023-09-09 23:36:00,2023,36
+California,Ventura,2023-12-09 17:40:00,2023,49
+California,Tulare,2023-09-30 22:06:47,2023,39
+California,Siskiyou,2023-08-18 01:16:50,2023,33
+California,Modoc,2023-08-05 19:52:00,2023,31
+California,Modoc,2023-07-18 20:36:34,2023,29
+California,Modoc,2023-09-06 23:25:00,2023,36
+California,Modoc,2023-08-26 18:40:56,2023,34
+California,Modoc,2023-09-19 22:15:00,2023,38
+California,Trinity,2023-08-15 23:06:00,2023,33
+California,Humboldt,2023-08-25 20:52:28,2023,34
+California,Siskiyou,2023-08-21 16:45:15,2023,34
+California,Humboldt,2023-08-17 01:18:00,2023,33
+California,Siskiyou,2023-08-17 01:20:59,2023,33
+California,Humboldt,2023-08-26 23:15:16,2023,34
+California,Humboldt,2023-06-06 16:24:00,2023,23
+California,Siskiyou,2023-08-19 18:14:52,2023,33
+California,San Diego,2023-12-05 17:26:10,2023,49
+California,San Diego,2023-12-22 05:52:42,2023,51
+California,San Diego,2023-10-07 23:33:25,2023,40
+California,San Diego,2023-10-29 22:30:19,2023,44
+California,Riverside,2023-10-30 19:39:52,2023,44
+California,San Diego,2023-10-31 21:54:49,2023,44
+California,Riverside,2023-12-07 01:09:31,2023,49
+California,Riverside,2023-10-27 08:08:32,2023,43
+California,Riverside,2023-09-26 21:11:08,2023,39
+California,Tuolumne,2023-09-09 23:32:00,2023,36
+California,Del Norte,2023-08-15 18:41:00,2023,33
+California,Siskiyou,2023-08-15 15:08:29,2023,33
+California,Los Angeles,2023-07-12 02:56:00,2023,28
+California,Siskiyou,2023-08-16 21:39:21,2023,33
+California,Siskiyou,2023-05-29 19:31:57,2023,22
+California,Siskiyou,2023-08-15 21:06:53,2023,33
+California,Siskiyou,2023-08-15 15:37:39,2023,33
+California,Siskiyou,2023-08-16 21:21:23,2023,33
+California,Siskiyou,2023-08-15 13:37:33,2023,33
+California,Siskiyou,2023-08-16 03:06:55,2023,33
+California,Del Norte,2023-08-15 20:13:55,2023,33
+California,Siskiyou,2023-08-28 18:40:16,2023,35
+California,Del Norte,2023-08-15 20:52:14,2023,33
+California,Del Norte,2023-08-15 17:29:00,2023,33
+California,Siskiyou,2023-08-25 19:21:52,2023,34
+California,Riverside,2023-12-30 01:46:48,2023,52
+California,Fresno,2023-07-11 20:52:30,2023,28
+California,Kern,2023-10-16 18:29:03,2023,42
+California,Siskiyou,2023-08-16 03:11:59,2023,33
+California,Del Norte,2023-08-15 18:16:00,2023,33
+California,Del Norte,2023-08-15 16:26:00,2023,33
+California,Del Norte,2023-08-15 18:41:00,2023,33
+California,Del Norte,2023-08-15 16:24:00,2023,33
+California,Del Norte,2023-08-15 18:43:03,2023,33
+California,Del Norte,2023-08-15 21:58:50,2023,33
+California,Del Norte,2023-08-15 23:27:00,2023,33
+California,Humboldt,2023-08-15 08:04:00,2023,33
+California,Kern,2023-07-04 03:39:00,2023,27
+California,San Luis Obispo,2023-11-12 20:50:00,2023,46
+California,Sierra,2023-10-25 06:47:53,2023,43
+California,Lassen,2023-08-06 21:34:54,2023,32
+California,Trinity,2023-08-15 14:37:10,2023,33
+California,San Luis Obispo,2023-10-12 17:50:17,2023,41
+California,Los Angeles,2023-07-25 21:17:00,2023,30
+California,Madera,2023-10-14 19:57:28,2023,41
+California,Siskiyou,2023-08-15 22:41:17,2023,33
+California,Trinity,2023-08-15 19:18:35,2023,33
+California,Fresno,2023-06-17 04:36:00,2023,24
+California,Tulare,2023-05-30 00:04:25,2023,22
+California,Mono,2023-07-20 00:01:05,2023,29
+California,Los Angeles,2023-11-12 18:51:07,2023,46
+California,Los Angeles,2023-10-29 22:42:42,2023,44
+California,Los Angeles,2023-08-23 23:30:23,2023,34
+California,Los Angeles,2023-08-07 00:59:29,2023,32
+California,Los Angeles,2023-08-29 22:46:16,2023,35
+California,Los Angeles,2023-08-05 20:04:51,2023,31
+California,Los Angeles,2023-07-03 14:16:36,2023,27
+California,Los Angeles,2023-11-09 06:03:25,2023,45
+California,Riverside,2023-09-28 18:23:00,2023,39
+California,Kern,2024-04-13 00:49:00,2024,67
+California,Riverside,2024-02-20 19:39:00,2024,60
+California,San Bernardino,2024-05-13 01:18:00,2024,72
+California,Glenn,2024-05-10 00:59:00,2024,71
+California,Riverside,2024-05-05 05:09:22,2024,71
+California,Kern,2024-05-02 20:13:00,2024,70
+California,Kern,2024-05-07 19:51:00,2024,71
+California,Kern,2024-05-09 20:16:00,2024,71
+California,Kern,2024-05-10 17:15:00,2024,71
+California,Kern,2024-05-09 01:27:00,2024,71
+California,Kern,2024-05-06 17:48:00,2024,71
+California,Riverside,2024-05-18 21:47:29,2024,72
+California,Kern,2024-05-16 00:51:00,2024,72
+California,Kern,2024-05-15 19:40:00,2024,72
+California,Kern,2024-05-18 06:42:00,2024,72
+California,Kern,2024-05-16 14:20:24,2024,72
+California,Kern,2024-05-19 23:28:00,2024,73
+California,Kern,2024-05-18 19:18:00,2024,72
+California,Kern,2024-05-20 14:17:00,2024,73
+California,Kern,2024-05-20 20:53:00,2024,73
+California,Kern,2024-05-20 22:59:00,2024,73
+California,San Diego,2024-05-16 01:01:27,2024,72
+California,Riverside,2024-05-10 21:26:49,2024,71
+California,San Diego,2024-05-27 20:37:23,2024,74
+California,Santa Barbara,2024-05-28 19:15:00,2024,74
+California,San Diego,2024-05-26 18:32:55,2024,74
+California,Riverside,2024-05-28 22:19:03,2024,74
+California,Riverside,2024-03-11 03:15:38,2024,63
+California,Riverside,2024-05-30 19:14:14,2024,74
+California,San Diego,2024-05-30 19:21:07,2024,74
+California,Santa Barbara,2024-05-31 22:15:00,2024,74
+California,Kern,2024-05-28 23:31:00,2024,74
+California,Kern,2024-05-31 21:59:00,2024,74
+California,Kern,2024-06-03 08:06:00,2024,75
+California,Kern,2024-05-24 17:25:00,2024,73
+California,Kern,2024-05-25 21:21:00,2024,73
+California,Kern,2024-05-22 02:24:00,2024,73
+California,Kern,2024-05-27 19:04:00,2024,74
+California,Kern,2024-05-28 03:42:00,2024,74
+California,Kern,2024-05-28 17:09:00,2024,74
+California,Kern,2024-05-30 09:21:00,2024,74
+California,Kern,2024-05-31 03:03:00,2024,74
+California,Kern,2024-05-31 18:48:00,2024,74
+California,Kern,2024-06-01 19:31:00,2024,74
+California,Kern,2024-06-01 19:55:00,2024,74
+California,Kern,2024-06-01 00:25:00,2024,74
+California,San Benito,2024-05-16 01:59:58,2024,72
+California,Riverside,2024-05-28 04:38:17,2024,74
+California,Riverside,2024-06-03 23:58:36,2024,75
+California,Kern,2024-06-05 00:04:00,2024,75
+California,Kern,2024-06-06 22:55:00,2024,75
+California,San Diego,2024-06-01 19:35:44,2024,74
+California,San Diego,2024-05-28 18:00:00,2024,74
+California,Riverside,2024-05-25 19:01:34,2024,73
+California,San Diego,2024-05-18 18:12:55,2024,72
+California,San Bernardino,2024-02-11 04:33:27,2024,59
+California,San Diego,2024-06-01 18:03:14,2024,74
+California,Riverside,2024-05-29 02:29:11,2024,74
+California,Riverside,2024-03-11 03:15:00,2024,63
+California,Contra Costa,2024-05-16 17:43:05,2024,72
+California,Lassen,2024-06-14 00:47:00,2024,76
+California,Los Angeles,2024-06-15 20:47:05,2024,76
+California,Sonoma,2024-06-16 19:33:55,2024,77
+California,Colusa,2024-06-17 20:39:25,2024,77
+California,Calaveras,2024-06-17 22:23:08,2024,77
+California,Glenn,2024-05-29 01:50:00,2024,74
+California,Humboldt,2023-08-15 07:07:00,2023,33
+California,Kern,2024-06-19 22:28:00,2024,77
+California,Kern,2024-06-22 21:35:00,2024,77
+California,Kern,2024-06-19 16:10:00,2024,77
+California,Kern,2024-06-18 11:30:00,2024,77
+California,Kern,2024-06-15 21:21:00,2024,76
+California,Kern,2024-06-15 16:46:00,2024,76
+California,Kern,2024-06-13 17:44:00,2024,76
+California,Kern,2024-06-14 00:24:36,2024,76
+California,Kern,2024-06-12 22:35:00,2024,76
+California,Kern,2024-06-11 19:36:00,2024,76
+California,Kern,2024-06-11 21:30:00,2024,76
+California,Kern,2024-06-09 16:35:00,2024,76
+California,Kern,2024-06-10 19:46:00,2024,76
+California,Kern,2024-06-10 21:42:00,2024,76
+California,Kern,2024-06-08 20:34:00,2024,75
+California,Kern,2024-06-08 09:16:00,2024,75
+California,Ventura,2024-06-23 04:48:00,2024,78
+California,Fresno,2024-06-25 16:18:18,2024,78
+California,Fresno,2024-06-24 22:00:50,2024,78
+California,Contra Costa,2024-06-22 22:33:18,2024,77
+California,Fresno,2024-06-29 20:37:07,2024,78
+California,Kern,2024-06-30 16:35:00,2024,79
+California,Kern,2024-06-29 16:06:00,2024,78
+California,Kern,2024-06-29 16:05:00,2024,78
+California,Kern,2024-06-28 22:46:00,2024,78
+California,Kern,2024-06-25 19:55:00,2024,78
+California,Kern,2024-06-26 04:45:00,2024,78
+California,Kern,2024-06-25 17:55:00,2024,78
+California,Napa,2024-07-02 16:42:17,2024,79
+California,Butte,2024-07-02 17:51:17,2024,79
+California,Mariposa,2024-07-05 01:02:48,2024,79
+California,Kern,2024-07-03 20:46:00,2024,79
+California,Kern,2024-07-03 19:50:00,2024,79
+California,Kern,2024-06-03 00:04:00,2024,75
+California,San Diego,2024-05-03 22:51:43,2024,70
+California,San Diego,2024-05-22 19:49:26,2024,73
+California,San Diego,2024-05-25 22:03:33,2024,73
+California,San Diego,2024-06-04 20:17:05,2024,75
+California,Siskiyou,2024-07-08 23:02:48,2024,80
+California,Los Angeles,2024-07-10 21:30:50,2024,80
+California,Los Angeles,2024-07-10 20:04:32,2024,80
+California,Humboldt,2024-07-11 00:48:27,2024,80
+California,San Diego,2024-06-08 20:49:36,2024,75
+California,San Diego,2024-06-13 19:01:26,2024,76
+California,Imperial,2024-06-16 19:22:42,2024,77
+California,San Diego,2024-06-07 15:54:18,2024,75
+California,San Diego,2024-06-16 19:12:52,2024,77
+California,San Diego,2024-07-02 04:11:40,2024,79
+California,Kern,2024-07-09 23:51:00,2024,80
+California,Kern,2024-07-09 21:19:00,2024,80
+California,Kern,2024-07-09 23:17:00,2024,80
+California,Kern,2024-07-09 00:38:00,2024,80
+California,Kern,2024-07-05 18:57:00,2024,79
+California,Kern,2024-07-07 22:35:00,2024,80
+California,Riverside,2024-07-12 20:31:45,2024,80
+California,Kern,2024-07-13 18:09:00,2024,80
+California,Kern,2024-07-13 21:29:00,2024,80
+California,San Diego,2024-07-02 21:06:15,2024,79
+California,San Diego,2024-07-18 08:42:41,2024,81
+California,Fresno,2024-07-16 16:18:00,2024,81
+California,Kern,2024-07-22 00:20:00,2024,82
+California,Kern,2024-07-21 19:06:00,2024,82
+California,Kern,2024-07-21 15:43:00,2024,82
+California,Kern,2024-07-17 17:34:00,2024,81
+California,Kern,2024-07-13 13:29:00,2024,80
+California,Kern,2024-07-15 09:24:00,2024,81
+California,Riverside,2024-07-21 21:14:17,2024,82
+California,Butte,2024-07-24 21:52:43,2024,82
+California,Lake,2024-07-25 19:55:15,2024,82
+California,San Diego,2024-07-25 22:04:57,2024,82
+California,Mendocino,2024-07-25 22:38:04,2024,82
+California,Ventura,2024-07-29 15:06:00,2024,83
+California,Fresno,2024-07-16 16:53:50,2024,81
+California,Sierra,2024-06-06 21:08:00,2024,75
+California,San Diego,2024-07-21 19:37:26,2024,82
+California,San Diego,2024-07-23 16:56:42,2024,82
+California,San Diego,2024-07-01 17:34:01,2024,79
+California,San Diego,2024-08-12 20:27:57,2024,85
+California,San Diego,2024-06-19 20:43:27,2024,77
+California,San Diego,2024-07-28 17:14:47,2024,83
+California,San Diego,2024-08-01 22:39:14,2024,83
+California,San Diego,2024-07-24 04:05:58,2024,82
+California,Kern,2024-08-07 22:23:08,2024,84
+California,Kern,2024-08-05 19:23:00,2024,84
+California,Kern,2024-08-05 21:00:00,2024,84
+California,Kern,2024-08-03 20:11:00,2024,83
+California,Kern,2024-07-31 16:28:00,2024,83
+California,Kern,2024-07-25 14:48:00,2024,82
+California,Riverside,2024-08-13 22:04:13,2024,85
+California,Riverside,2024-08-12 22:50:41,2024,85
+California,San Diego,2024-08-19 17:32:43,2024,86
+California,San Bernardino,2024-07-08 20:17:10,2024,80
+California,Riverside,2024-07-15 23:20:07,2024,81
+California,Riverside,2024-07-28 03:18:50,2024,83
+California,Santa Barbara,2024-08-20 23:31:00,2024,86
+California,Placer,2024-08-03 06:34:57,2024,83
+California,San Diego,2024-08-21 17:58:17,2024,86
+California,Calaveras,2024-06-10 20:29:30,2024,76
+California,San Diego,2024-07-01 21:39:40,2024,79
+California,San Bernardino,2024-08-25 05:03:38,2024,87
+California,San Bernardino,2024-06-11 19:31:08,2024,76
+California,San Diego,2024-07-11 18:34:00,2024,80
+California,Riverside,2024-06-16 20:13:44,2024,77
+California,San Diego,2024-06-22 22:12:41,2024,77
+California,San Diego,2024-07-23 23:34:32,2024,82
+California,San Diego,2024-08-06 14:22:05,2024,84
+California,San Diego,2024-06-26 04:07:01,2024,78
+California,Kern,2024-06-30 04:02:00,2024,79
+California,San Diego,2024-07-24 20:12:32,2024,82
+California,San Bernardino,2024-06-04 00:09:00,2024,75
+California,Kern,2024-05-19 19:33:13,2024,73
+California,San Bernardino,2024-06-06 00:25:00,2024,75
+California,Kern,2024-06-08 05:32:12,2024,75
+California,Kern,2024-06-01 17:32:38,2024,74
+California,Shasta,2024-06-16 23:33:21,2024,77
+California,Shasta,2024-07-08 02:05:24,2024,80
+California,San Bernardino,2024-07-22 18:32:36,2024,82
+California,San Diego,2024-08-20 23:36:21,2024,86
+California,Kern,2024-07-05 05:07:31,2024,79
+California,San Bernardino,2024-07-06 22:11:01,2024,79
+California,San Diego,2024-05-11 18:35:47,2024,71
+California,San Diego,2024-07-01 22:34:14,2024,79
+California,Kern,2024-08-27 21:18:00,2024,87
+California,Kern,2024-08-25 21:15:00,2024,87
+California,Kern,2024-08-24 14:50:00,2024,86
+California,Kern,2024-08-20 16:47:00,2024,86
+California,Kern,2024-08-10 19:27:00,2024,84
+California,Tulare,2024-06-25 01:54:25,2024,78
+California,Mono,2024-07-23 22:40:00,2024,82
+California,Fresno,2024-09-03 19:10:46,2024,88
+California,San Bernardino,2024-09-01 17:32:36,2024,88
+California,San Bernardino,2024-09-06 01:00:00,2024,88
+California,San Diego,2024-09-07 21:03:00,2024,88
+California,San Diego,2024-07-17 23:25:25,2024,81
+California,San Diego,2024-07-30 18:15:00,2024,83
+California,San Bernardino,2024-08-24 19:13:11,2024,86
+California,San Diego,2024-09-07 18:41:06,2024,88
+California,Los Angeles,2024-09-09 17:33:23,2024,89
+California,San Diego,2024-09-09 02:13:26,2024,89
+California,San Diego,2024-08-28 20:56:39,2024,87
+California,San Bernardino,2024-05-16 00:38:38,2024,72
+California,Kern,2024-08-09 20:27:00,2024,84
+California,Riverside,2024-09-01 21:22:50,2024,88
+California,Kern,2024-08-05 00:28:00,2024,84
+California,San Bernardino,2024-07-19 22:19:00,2024,81
+California,San Diego,2023-11-23 21:48:00,2023,47
+California,Lassen,2024-09-06 22:02:35,2024,88
+California,Lassen,2024-07-13 22:30:54,2024,80
+California,Lassen,2024-07-21 00:10:43,2024,82
+California,Lassen,2024-07-13 22:34:28,2024,80
+California,Humboldt,2023-08-16 09:22:13,2023,33
+California,Santa Barbara,2024-09-16 18:13:00,2024,90
+California,San Diego,2024-09-17 23:15:41,2024,90
+California,Modoc,2024-07-24 20:43:00,2024,82
+California,Siskiyou,2024-07-01 18:59:00,2024,79
+California,Modoc,2024-07-15 21:26:00,2024,81
+California,Tuolumne,2024-08-04 17:46:39,2024,84
+California,Tuolumne,2024-08-29 20:42:00,2024,87
+California,Modoc,2024-07-15 01:50:00,2024,81
+California,Kern,2024-09-21 23:16:00,2024,90
+California,Kern,2024-09-20 17:54:00,2024,90
+California,Kern,2024-09-12 22:44:00,2024,89
+California,Kern,2024-09-09 21:46:00,2024,89
+California,Kern,2024-09-09 16:58:00,2024,89
+California,Kern,2024-09-04 16:08:00,2024,88
+California,Kern,2024-09-03 22:10:36,2024,88
+California,Kern,2024-09-01 06:01:00,2024,88
+California,Kern,2024-07-18 07:32:07,2024,81
+California,Kern,2024-07-29 14:12:54,2024,83
+California,Kern,2024-07-07 04:10:00,2024,80
+California,Kern,2024-04-02 17:56:54,2024,66
+California,Kern,2024-07-03 00:08:32,2024,79
+California,Contra Costa,2024-06-15 01:38:01,2024,76
+California,Contra Costa,2024-06-15 05:51:00,2024,76
+California,Stanislaus,2024-08-13 22:15:00,2024,85
+California,San Diego,2024-08-08 17:07:49,2024,84
+California,San Diego,2024-06-19 20:41:42,2024,77
+California,San Diego,2024-08-16 20:34:42,2024,85
+California,San Diego,2024-08-24 00:26:12,2024,86
+California,San Diego,2024-08-12 20:29:00,2024,85
+California,Riverside,2024-09-04 22:55:13,2024,88
+California,Imperial,2024-09-16 18:08:36,2024,90
+California,Santa Barbara,2024-09-29 06:30:00,2024,92
+California,San Diego,2024-09-19 20:48:15,2024,90
+California,San Diego,2024-09-29 20:46:35,2024,92
+California,Riverside,2024-09-30 22:05:35,2024,92
+California,Kern,2024-09-10 21:07:02,2024,89
+California,Ventura,2024-08-01 14:45:34,2024,83
+California,Modoc,2024-06-26 21:52:00,2024,78
+California,Santa Barbara,2024-05-28 19:14:00,2024,74
+California,El Dorado,2024-05-11 23:37:24,2024,71
+California,Lake,2024-10-04 18:37:35,2024,92
+California,Riverside,2024-10-04 23:44:53,2024,92
+California,San Bernardino,2024-09-21 19:12:32,2024,90
+California,Riverside,2024-09-04 19:56:11,2024,88
+California,Shasta,2024-10-09 20:18:00,2024,93
+California,San Diego,2024-07-19 02:05:00,2024,81
+California,Kern,2024-10-08 16:54:00,2024,93
+California,Kern,2024-10-09 06:00:00,2024,93
+California,Kern,2024-10-05 16:18:00,2024,92
+California,Kern,2024-10-04 01:10:00,2024,92
+California,Kern,2024-10-02 20:20:00,2024,92
+California,Kern,2024-10-01 15:57:00,2024,92
+California,Kern,2024-09-28 02:29:00,2024,91
+California,Lassen,2024-07-24 03:18:39,2024,82
+California,Mariposa,2024-08-03 16:56:56,2024,83
+California,Mariposa,2024-08-03 20:03:05,2024,83
+California,Tuolumne,2024-08-04 22:51:00,2024,84
+California,Mariposa,2024-08-03 15:03:13,2024,83
+California,Los Angeles,2024-10-19 23:10:00,2024,94
+California,Santa Barbara,2024-08-23 07:06:00,2024,86
+California,San Diego,2024-10-21 20:55:18,2024,95
+California,San Diego,2024-10-25 03:24:08,2024,95
+California,Riverside,2024-08-25 18:48:00,2024,87
+California,Kern,2024-11-01 15:06:07,2024,96
+California,Kern,2024-10-09 15:01:00,2024,93
+California,San Diego,2024-10-23 16:03:21,2024,95
+California,San Diego,2024-10-04 20:40:09,2024,92
+California,Kern,2024-10-19 19:59:00,2024,94
+California,Riverside,2024-10-11 23:40:52,2024,93
+California,Santa Barbara,2024-11-07 16:06:00,2024,97
+California,San Diego,2024-11-08 20:48:32,2024,97
+California,San Diego,2024-11-08 23:40:44,2024,97
+California,Trinity,2024-11-05 21:16:17,2024,97
+California,Tuolumne,2024-10-02 19:04:00,2024,92
+California,Fresno,2024-07-14 16:10:00,2024,81
+California,Fresno,2024-07-26 00:07:14,2024,82
+California,Monterey,2024-06-17 20:36:10,2024,77
+California,Ventura,2024-09-10 17:29:42,2024,89
+California,Ventura,2024-11-06 17:00:00,2024,97
+California,Ventura,2024-10-03 19:45:00,2024,92
+California,Ventura,2024-10-30 21:54:00,2024,96
+California,Sierra,2024-10-21 19:20:44,2024,95
+California,San Diego,2024-11-21 01:15:04,2024,99
+California,Tulare,2024-11-01 21:04:40,2024,96
+California,Inyo,2024-11-23 04:39:27,2024,99
+California,San Bernardino,2024-10-27 00:56:17,2024,96
+California,Santa Barbara,2024-08-04 20:10:00,2024,84
+California,Ventura,2024-07-24 01:31:00,2024,82
+California,Lassen,2024-08-16 07:54:07,2024,85
+California,Lassen,2024-07-11 01:20:04,2024,80
+California,Tuolumne,2024-08-09 07:48:26,2024,84
+California,Kern,2024-08-17 15:39:43,2024,85
+California,Kern,2024-08-20 20:04:19,2024,86
+California,Kern,2024-09-26 11:00:00,2024,91
+California,San Bernardino,2024-05-05 21:55:26,2024,71
+California,San Diego,2024-10-31 20:42:00,2024,96
+California,San Diego,2024-11-10 04:39:19,2024,98
+California,San Diego,2024-11-10 15:37:20,2024,98
+California,San Bernardino,2024-12-07 23:25:58,2024,101
+California,Modoc,2024-07-07 22:38:45,2024,80
+California,Sierra,2024-09-02 21:09:00,2024,88
+California,Placer,2024-07-07 23:09:00,2024,80
+California,Trinity,2024-07-15 00:35:00,2024,81
+California,Los Angeles,2024-12-10 06:50:53,2024,102
+California,San Diego,2024-12-12 05:49:07,2024,102
+California,Kern,2024-05-15 18:41:00,2024,72
+California,Tulare,2024-07-13 21:29:00,2024,80
+California,Kern,2024-10-11 21:18:18,2024,93
+California,Kern,2024-07-09 21:44:00,2024,80
+California,Kern,2024-06-27 00:36:01,2024,78
+California,Kern,2024-07-02 17:36:00,2024,79
+California,Kern,2024-08-03 23:19:36,2024,83
+California,Ventura,2024-06-28 22:59:00,2024,78
+California,Ventura,2024-07-03 20:48:00,2024,79
+California,San Diego,2024-10-07 21:30:00,2024,93
+California,Ventura,2024-09-18 22:21:00,2024,90
+California,Ventura,2024-07-06 00:47:00,2024,79
+California,Ventura,2024-12-11 18:26:00,2024,102
+California,Ventura,2024-07-06 21:02:00,2024,79
+California,Ventura,2024-06-30 20:35:00,2024,79
+California,San Diego,2024-10-14 17:00:03,2024,94
+California,Orange,2024-09-09 20:01:00,2024,89
+California,San Benito,2024-09-27 21:13:27,2024,91
+California,San Bernardino,2024-11-13 18:17:44,2024,98
+California,Siskiyou,2024-07-03 20:27:04,2024,79
+California,San Bernardino,2024-08-05 03:15:07,2024,84
+California,San Bernardino,2024-05-18 19:24:00,2024,72
+California,San Bernardino,2024-06-11 22:36:00,2024,76
+California,Tuolumne,2024-06-25 02:19:00,2024,78
+California,Tuolumne,2024-07-31 19:00:00,2024,83
+California,Riverside,2024-05-30 19:20:44,2024,74
+California,Riverside,2024-07-31 15:46:35,2024,83
+California,Riverside,2024-11-26 04:19:40,2024,100
+California,Los Angeles,2024-10-09 18:22:09,2024,93
+California,Los Angeles,2024-11-06 17:05:35,2024,97
+California,Ventura,2024-11-14 12:18:00,2024,98
+California,Humboldt,2024-07-16 00:40:00,2024,81
+California,El Dorado,2024-10-08 16:13:00,2024,93
+California,Humboldt,2024-10-02 21:15:00,2024,92
+California,San Bernardino,2024-07-07 16:51:00,2024,80
+California,Yuba,2024-04-21 20:23:48,2024,69
+California,Modoc,2024-07-22 21:16:00,2024,82
+California,Modoc,2024-07-17 18:40:00,2024,81
+California,Lassen,2024-06-10 22:40:00,2024,76
+California,Tulare,2024-07-13 14:37:00,2024,80
+California,Kern,2024-07-14 22:39:29,2024,81
+California,San Bernardino,2024-07-01 08:07:50,2024,79
+California,San Bernardino,2024-05-11 23:59:00,2024,71
+California,Riverside,2024-06-17 18:35:11,2024,77
+California,San Bernardino,2024-07-30 23:26:00,2024,83
+California,Riverside,2024-12-28 01:25:08,2024,104
+California,Kern,2024-08-12 17:18:00,2024,85
+California,Kern,2024-10-04 22:56:00,2024,92
+California,Kern,2024-12-28 05:28:07,2024,104
+California,Riverside,2024-11-29 01:12:00,2024,100
+California,San Diego,2024-12-10 18:23:00,2024,102
+California,San Diego,2024-11-23 22:12:01,2024,99
+California,Kern,2024-05-05 00:02:00,2024,71
+California,Mariposa,2024-07-30 19:47:53,2024,83
+California,El Dorado,2024-07-02 21:00:58,2024,79
+California,Imperial,2024-11-05 13:03:18,2024,97
+California,El Dorado,2024-08-07 05:57:24,2024,84
+California,San Bernardino,2024-07-07 04:18:00,2024,80
+California,Fresno,2024-06-26 17:29:31,2024,78
+California,Tulare,2024-07-15 21:30:00,2024,81
+California,Los Angeles,2024-11-20 21:40:34,2024,99
+California,Lassen,2024-10-06 19:36:05,2024,93
+California,Riverside,2024-11-21 00:43:00,2024,99
+California,Los Angeles,2024-09-08 21:12:00,2024,89
+California,Yuba,2024-11-11 00:05:45,2024,98
+California,Fresno,2024-06-18 15:18:00,2024,77
+California,Tulare,2024-05-23 15:17:19,2024,73
+California,Kern,2024-05-02 04:59:00,2024,70
+California,Kern,2024-09-11 21:13:16,2024,89
+California,San Luis Obispo,2024-07-13 16:24:44,2024,80
+California,San Luis Obispo,2024-07-13 14:28:54,2024,80
+California,Kern,2024-05-18 18:12:27,2024,72
+California,Plumas,2024-07-22 21:34:00,2024,82
+California,Siskiyou,2024-10-06 20:39:46,2024,93
+California,Tulare,2024-08-03 15:05:00,2024,83
+California,Plumas,2024-05-15 19:29:00,2024,72
+California,Plumas,2024-05-01 21:48:00,2024,70
+California,San Diego,2024-11-20 22:21:01,2024,99
+California,San Diego,2024-11-21 01:44:36,2024,99
+California,San Diego,2024-11-20 23:16:07,2024,99
+California,Plumas,2024-07-22 22:17:08,2024,82
+California,Plumas,2024-05-08 11:23:46,2024,71
+California,Inyo,2024-10-30 18:27:00,2024,96
+California,Modoc,2024-05-21 20:31:00,2024,73
+California,Fresno,2024-07-29 19:30:00,2024,83
+California,Los Angeles,2024-08-13 21:08:09,2024,85
+California,Los Angeles,2024-11-07 20:08:16,2024,97
+California,Los Angeles,2024-08-22 00:25:00,2024,86
+California,Los Angeles,2024-07-19 22:23:05,2024,81
+California,Los Angeles,2024-06-28 21:06:00,2024,78
+California,Los Angeles,2024-07-01 21:29:58,2024,79
+California,Los Angeles,2024-08-23 17:50:03,2024,86
+California,Los Angeles,2024-10-02 09:19:22,2024,92
+California,Mariposa,2024-08-03 16:59:50,2024,83
+California,Imperial,2024-12-24 06:30:00,2024,104
+California,Del Norte,2023-08-15 13:30:00,2023,33
+California,Kern,2024-07-24 19:59:00,2024,82
+California,Santa Barbara,2024-07-05 22:48:00,2024,79
+California,Kern,2023-05-30 20:18:24,2023,22
+California,Stanislaus,2024-07-13 08:30:00,2024,80
+California,Stanislaus,2024-07-13 08:10:58,2024,80
+California,San Diego,2023-05-25 21:25:00,2023,21
+California,San Diego,2023-11-14 02:05:30,2023,46
+California,San Diego,2024-10-04 01:59:33,2024,92
+California,San Diego,2024-11-20 21:48:19,2024,99
+California,Tuolumne,2023-09-09 23:05:16,2023,36
+California,Glenn,2024-10-17 19:49:03,2024,94
+California,Lake,2024-08-12 21:03:25,2024,85
+California,Lake,2024-07-20 23:27:18,2024,81
+California,Riverside,2024-07-29 19:30:48,2024,83
+California,Imperial,2024-03-03 07:55:17,2024,62
+California,Riverside,2023-07-27 21:52:10,2023,30
+California,Humboldt,2024-08-09 15:50:00,2024,84

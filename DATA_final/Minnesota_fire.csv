@@ -1,0 +1,756 @@
+state,county,datetime,year,week
+Minnesota,Itasca,2023-03-15 20:20:38,2023,11
+Minnesota,Winona,2023-04-13 01:01:57,2023,15
+Minnesota,Houston,2023-04-12 13:32:05,2023,15
+Minnesota,Pennington,2023-05-06 20:20:44,2023,18
+Minnesota,Clearwater,2023-04-17 18:38:00,2023,16
+Minnesota,Becker,2023-05-04 22:05:00,2023,18
+Minnesota,Becker,2023-05-02 01:47:00,2023,18
+Minnesota,Anoka,2023-05-04 18:17:00,2023,18
+Minnesota,Marshall,2023-04-30 20:14:09,2023,18
+Minnesota,Cass,2023-05-02 22:31:00,2023,18
+Minnesota,St. Louis,2023-05-28 16:44:54,2023,22
+Minnesota,Wadena,2023-05-30 17:35:59,2023,22
+Minnesota,Crow Wing,2023-05-30 00:31:08,2023,22
+Minnesota,Freeborn,2023-04-14 17:00:00,2023,15
+Minnesota,Crow Wing,2023-06-12 20:22:38,2023,24
+Minnesota,Cass,2023-05-30 17:36:45,2023,22
+Minnesota,Mille Lacs,2023-05-04 22:50:00,2023,18
+Minnesota,Clearwater,2023-04-17 01:32:00,2023,16
+Minnesota,Beltrami,2023-05-15 17:34:00,2023,20
+Minnesota,Crow Wing,2023-06-17 17:25:26,2023,24
+Minnesota,Beltrami,2023-05-05 17:46:00,2023,18
+Minnesota,Crow Wing,2023-07-24 15:44:20,2023,30
+Minnesota,Dodge,2023-04-11 20:00:00,2023,15
+Minnesota,Isanti,2023-04-12 20:45:00,2023,15
+Minnesota,Cass,2023-04-13 21:56:21,2023,15
+Minnesota,Carlton,2023-05-04 22:06:45,2023,18
+Minnesota,Anoka,2023-04-12 21:48:00,2023,15
+Minnesota,Washington,2023-04-25 17:41:00,2023,17
+Minnesota,Clearwater,2023-04-18 19:46:44,2023,16
+Minnesota,Anoka,2023-04-25 20:15:00,2023,17
+Minnesota,Mahnomen,2023-04-18 22:03:28,2023,16
+Minnesota,Isanti,2023-04-14 17:25:00,2023,15
+Minnesota,Crow Wing,2023-04-25 21:25:02,2023,17
+Minnesota,Mille Lacs,2023-04-27 04:35:04,2023,17
+Minnesota,Mahnomen,2023-04-26 19:13:21,2023,17
+Minnesota,Beltrami,2023-04-28 20:50:21,2023,17
+Minnesota,Beltrami,2023-04-30 18:44:00,2023,18
+Minnesota,Roseau,2023-04-30 18:59:52,2023,18
+Minnesota,Lac qui Parle,2023-04-30 19:00:19,2023,18
+Minnesota,Mille Lacs,2023-04-30 19:00:11,2023,18
+Minnesota,Sherburne,2023-05-01 15:22:07,2023,18
+Minnesota,Itasca,2023-05-01 19:35:59,2023,18
+Minnesota,Mahnomen,2023-05-01 22:31:01,2023,18
+Minnesota,Morrison,2023-05-02 19:59:22,2023,18
+Minnesota,Isanti,2023-05-02 19:18:00,2023,18
+Minnesota,Carlton,2023-05-02 19:39:46,2023,18
+Minnesota,Todd,2023-05-01 22:13:41,2023,18
+Minnesota,Chisago,2023-05-03 00:15:00,2023,18
+Minnesota,Cass,2023-05-02 20:41:43,2023,18
+Minnesota,Crow Wing,2023-05-02 22:13:42,2023,18
+Minnesota,St. Louis,2023-05-02 21:39:59,2023,18
+Minnesota,Mahnomen,2023-05-03 20:25:00,2023,18
+Minnesota,St. Louis,2023-05-03 17:55:52,2023,18
+Minnesota,Otter Tail,2023-05-03 17:56:00,2023,18
+Minnesota,Carlton,2023-05-03 15:50:55,2023,18
+Minnesota,Koochiching,2023-05-03 22:15:59,2023,18
+Minnesota,Sherburne,2023-05-03 22:30:45,2023,18
+Minnesota,Pine,2023-05-03 22:14:03,2023,18
+Minnesota,Hubbard,2023-05-03 21:00:12,2023,18
+Minnesota,Clearwater,2023-05-04 16:00:54,2023,18
+Minnesota,St. Louis,2023-05-04 18:55:47,2023,18
+Minnesota,Koochiching,2023-05-04 18:10:29,2023,18
+Minnesota,Polk,2023-05-04 20:35:26,2023,18
+Minnesota,St. Louis,2023-05-04 20:19:25,2023,18
+Minnesota,Hubbard,2023-05-03 19:03:41,2023,18
+Minnesota,Cass,2023-05-02 23:16:00,2023,18
+Minnesota,Beltrami,2023-05-04 21:20:58,2023,18
+Minnesota,Mille Lacs,2023-05-04 20:52:13,2023,18
+Minnesota,Beltrami,2023-05-04 21:45:00,2023,18
+Minnesota,Crow Wing,2023-05-04 21:54:25,2023,18
+Minnesota,St. Louis,2023-05-04 23:50:12,2023,18
+Minnesota,Beltrami,2023-05-05 18:04:21,2023,18
+Minnesota,Itasca,2023-05-05 00:13:09,2023,18
+Minnesota,Polk,2023-05-05 23:30:00,2023,18
+Minnesota,Isanti,2023-05-05 19:26:00,2023,18
+Minnesota,Polk,2023-05-05 22:00:39,2023,18
+Minnesota,Wadena,2023-05-05 20:35:12,2023,18
+Minnesota,Morrison,2023-07-06 23:08:44,2023,27
+Minnesota,Clearwater,2023-05-10 19:23:20,2023,19
+Minnesota,Sherburne,2023-05-08 19:53:28,2023,19
+Minnesota,Anoka,2023-05-09 21:58:31,2023,19
+Minnesota,Morrison,2023-05-06 14:00:36,2023,18
+Minnesota,Crow Wing,2023-05-07 23:00:56,2023,19
+Minnesota,Itasca,2023-05-12 01:30:00,2023,19
+Minnesota,Beltrami,2023-05-11 22:36:00,2023,19
+Minnesota,Cass,2023-05-12 15:36:21,2023,19
+Minnesota,Pennington,2023-05-12 22:01:40,2023,19
+Minnesota,Crow Wing,2023-05-12 17:16:47,2023,19
+Minnesota,Roseau,2023-05-12 22:27:03,2023,19
+Minnesota,Beltrami,2023-05-13 04:27:10,2023,19
+Minnesota,Crow Wing,2023-05-14 17:54:04,2023,20
+Minnesota,St. Louis,2023-05-14 18:26:15,2023,20
+Minnesota,Beltrami,2023-05-14 05:10:45,2023,20
+Minnesota,St. Louis,2023-05-14 01:22:00,2023,20
+Minnesota,St. Louis,2023-05-13 15:52:05,2023,19
+Minnesota,Itasca,2023-05-14 19:54:25,2023,20
+Minnesota,St. Louis,2023-05-14 20:40:03,2023,20
+Minnesota,St. Louis,2023-05-14 21:30:53,2023,20
+Minnesota,Beltrami,2023-05-14 22:55:11,2023,20
+Minnesota,Roseau,2023-05-15 03:53:12,2023,20
+Minnesota,Crow Wing,2023-05-15 17:38:36,2023,20
+Minnesota,St. Louis,2023-05-15 18:54:10,2023,20
+Minnesota,Becker,2023-05-16 20:00:00,2023,20
+Minnesota,Carlton,2023-05-15 17:43:33,2023,20
+Minnesota,Pine,2023-05-16 00:21:43,2023,20
+Minnesota,Cass,2023-05-16 19:30:02,2023,20
+Minnesota,St. Louis,2023-05-15 17:46:14,2023,20
+Minnesota,Lake,2023-05-15 16:53:52,2023,20
+Minnesota,Carlton,2023-05-15 20:23:45,2023,20
+Minnesota,Roseau,2023-05-15 18:45:00,2023,20
+Minnesota,Cass,2023-05-16 21:10:45,2023,20
+Minnesota,Beltrami,2023-05-17 20:24:04,2023,20
+Minnesota,Cass,2023-05-16 20:50:07,2023,20
+Minnesota,Crow Wing,2023-05-18 02:59:52,2023,20
+Minnesota,Chisago,2023-05-17 18:12:00,2023,20
+Minnesota,Beltrami,2023-05-20 17:00:19,2023,20
+Minnesota,Sherburne,2023-05-04 22:50:49,2023,18
+Minnesota,Cass,2023-05-16 18:30:18,2023,20
+Minnesota,Cass,2023-05-17 21:27:52,2023,20
+Minnesota,St. Louis,2023-05-14 17:55:23,2023,20
+Minnesota,St. Louis,2023-05-11 18:17:45,2023,19
+Minnesota,Roseau,2023-05-02 22:41:31,2023,18
+Minnesota,Morrison,2023-05-21 01:00:36,2023,21
+Minnesota,Chisago,2023-05-15 15:00:24,2023,20
+Minnesota,Goodhue,2023-05-22 16:12:00,2023,21
+Minnesota,Morrison,2023-05-22 18:41:41,2023,21
+Minnesota,St. Louis,2023-05-27 00:56:14,2023,21
+Minnesota,Beltrami,2023-05-25 21:15:09,2023,21
+Minnesota,St. Louis,2023-05-25 19:22:59,2023,21
+Minnesota,St. Louis,2023-05-23 18:00:57,2023,21
+Minnesota,Morrison,2023-05-24 04:32:42,2023,21
+Minnesota,Crow Wing,2023-05-27 05:44:27,2023,21
+Minnesota,St. Louis,2023-05-27 17:15:57,2023,21
+Minnesota,Pennington,2023-05-24 21:15:23,2023,21
+Minnesota,Itasca,2023-05-25 19:36:16,2023,21
+Minnesota,Lake,2023-05-23 20:54:03,2023,21
+Minnesota,Crow Wing,2023-05-22 22:22:19,2023,21
+Minnesota,Crow Wing,2023-05-27 18:43:04,2023,21
+Minnesota,Crow Wing,2023-05-27 21:05:05,2023,21
+Minnesota,Crow Wing,2023-05-27 20:45:49,2023,21
+Minnesota,Benton,2023-05-27 19:03:31,2023,21
+Minnesota,St. Louis,2023-05-27 21:30:43,2023,21
+Minnesota,Lake,2023-05-27 21:16:55,2023,21
+Minnesota,Todd,2023-05-28 19:29:02,2023,22
+Minnesota,Otter Tail,2023-05-28 09:15:24,2023,22
+Minnesota,Crow Wing,2023-05-28 23:56:17,2023,22
+Minnesota,St. Louis,2023-05-28 19:57:11,2023,22
+Minnesota,Crow Wing,2023-05-29 01:38:22,2023,22
+Minnesota,Morrison,2023-05-29 01:51:49,2023,22
+Minnesota,Pine,2023-05-29 17:31:06,2023,22
+Minnesota,Marshall,2023-08-03 17:58:07,2023,31
+Minnesota,Lake,2023-06-13 20:33:00,2023,24
+Minnesota,St. Louis,2023-06-18 21:00:52,2023,25
+Minnesota,Carlton,2023-09-04 22:35:00,2023,36
+Minnesota,Becker,2023-05-13 18:30:00,2023,19
+Minnesota,Becker,2023-05-27 13:30:00,2023,21
+Minnesota,Cass,2023-09-20 18:46:28,2023,38
+Minnesota,Mahnomen,2023-09-11 15:30:00,2023,37
+Minnesota,Cass,2023-11-04 17:19:28,2023,44
+Minnesota,Crow Wing,2023-04-26 17:30:42,2023,17
+Minnesota,Crow Wing,2023-11-16 23:55:01,2023,46
+Minnesota,Crow Wing,2023-11-23 17:06:30,2023,47
+Minnesota,Kittson,2023-12-07 17:00:44,2023,49
+Minnesota,Sherburne,2023-11-20 17:00:41,2023,47
+Minnesota,Sherburne,2023-11-20 17:20:39,2023,47
+Minnesota,St. Louis,2023-11-18 18:57:00,2023,46
+Minnesota,St. Louis,2023-12-01 03:54:03,2023,48
+Minnesota,Itasca,2023-10-09 03:00:06,2023,41
+Minnesota,St. Louis,2023-08-03 21:41:33,2023,31
+Minnesota,Mille Lacs,2023-09-06 00:29:54,2023,36
+Minnesota,St. Louis,2023-08-08 12:54:25,2023,32
+Minnesota,Sherburne,2023-09-13 19:00:39,2023,37
+Minnesota,St. Louis,2023-10-03 20:07:55,2023,40
+Minnesota,Morrison,2023-08-08 21:12:40,2023,32
+Minnesota,Mille Lacs,2023-08-03 19:59:21,2023,31
+Minnesota,Todd,2023-11-16 21:08:10,2023,46
+Minnesota,Kanabec,2023-11-19 18:44:00,2023,47
+Minnesota,St. Louis,2023-08-08 18:34:53,2023,32
+Minnesota,Carlton,2023-09-01 17:35:42,2023,35
+Minnesota,Watonwan,2023-11-30 18:00:37,2023,48
+Minnesota,St. Louis,2023-09-05 17:46:00,2023,36
+Minnesota,Itasca,2023-10-02 17:34:22,2023,40
+Minnesota,Todd,2023-09-19 19:12:51,2023,38
+Minnesota,Morrison,2023-08-06 00:26:40,2023,32
+Minnesota,Mille Lacs,2023-09-12 22:05:20,2023,37
+Minnesota,St. Louis,2023-06-26 17:23:11,2023,26
+Minnesota,Morrison,2023-07-30 20:56:34,2023,31
+Minnesota,Mille Lacs,2023-08-03 21:55:07,2023,31
+Minnesota,Carlton,2023-06-21 22:01:36,2023,25
+Minnesota,Mille Lacs,2023-07-11 04:10:37,2023,28
+Minnesota,Carlton,2023-06-08 19:26:57,2023,23
+Minnesota,Morrison,2023-07-19 17:00:59,2023,29
+Minnesota,St. Louis,2023-06-19 22:08:29,2023,25
+Minnesota,Mille Lacs,2023-07-11 04:10:17,2023,28
+Minnesota,Carlton,2023-06-09 20:12:15,2023,23
+Minnesota,St. Louis,2023-06-09 01:03:30,2023,23
+Minnesota,Mille Lacs,2023-07-24 02:32:37,2023,30
+Minnesota,St. Louis,2023-06-08 21:05:41,2023,23
+Minnesota,St. Louis,2023-06-15 20:27:58,2023,24
+Minnesota,Benton,2023-07-11 20:16:38,2023,28
+Minnesota,St. Louis,2023-06-07 19:40:00,2023,23
+Minnesota,St. Louis,2023-06-07 22:05:37,2023,23
+Minnesota,St. Louis,2023-06-20 19:01:16,2023,25
+Minnesota,Sherburne,2023-06-27 21:29:00,2023,26
+Minnesota,Sherburne,2023-06-13 16:34:34,2023,24
+Minnesota,Sherburne,2023-06-04 23:16:13,2023,23
+Minnesota,Mahnomen,2023-09-20 19:46:00,2023,38
+Minnesota,Sherburne,2023-06-13 15:30:27,2023,24
+Minnesota,Sherburne,2023-06-15 21:55:36,2023,24
+Minnesota,Sherburne,2023-07-09 03:06:34,2023,28
+Minnesota,Mille Lacs,2023-06-27 18:56:17,2023,26
+Minnesota,Polk,2023-10-03 16:00:11,2023,40
+Minnesota,Morrison,2023-07-03 17:45:29,2023,27
+Minnesota,Sherburne,2023-06-16 19:17:06,2023,24
+Minnesota,Wright,2023-06-22 16:49:14,2023,25
+Minnesota,Sherburne,2023-05-27 04:10:27,2023,21
+Minnesota,Marshall,2023-09-13 20:55:30,2023,37
+Minnesota,Roseau,2023-10-03 22:20:00,2023,40
+Minnesota,Pennington,2023-08-19 23:39:00,2023,33
+Minnesota,Sherburne,2023-05-30 15:49:42,2023,22
+Minnesota,Kittson,2023-09-02 19:36:46,2023,35
+Minnesota,Kittson,2023-08-20 00:07:00,2023,34
+Minnesota,Morrison,2023-05-31 03:00:46,2023,22
+Minnesota,Roseau,2023-05-14 22:30:40,2023,20
+Minnesota,Roseau,2023-08-29 22:15:48,2023,35
+Minnesota,Aitkin,2023-08-04 21:00:05,2023,31
+Minnesota,Mille Lacs,2023-11-09 22:20:00,2023,45
+Minnesota,Sherburne,2023-11-16 21:49:03,2023,46
+Minnesota,Sherburne,2023-09-12 19:03:38,2023,37
+Minnesota,Itasca,2023-06-03 17:53:25,2023,22
+Minnesota,St. Louis,2023-05-26 16:15:03,2023,21
+Minnesota,Itasca,2023-05-15 17:11:00,2023,20
+Minnesota,Chisago,2023-07-10 17:55:00,2023,28
+Minnesota,Anoka,2023-08-10 15:20:00,2023,32
+Minnesota,Washington,2023-06-12 18:20:12,2023,24
+Minnesota,Pine,2023-07-03 01:59:00,2023,27
+Minnesota,Isanti,2023-06-02 20:15:00,2023,22
+Minnesota,Chisago,2023-06-25 14:31:23,2023,26
+Minnesota,Chisago,2023-07-02 22:51:00,2023,27
+Minnesota,Anoka,2023-06-13 20:03:53,2023,24
+Minnesota,Chisago,2023-07-18 19:55:55,2023,29
+Minnesota,Anoka,2023-07-06 18:35:00,2023,27
+Minnesota,Anoka,2023-07-09 19:07:00,2023,28
+Minnesota,Chisago,2023-11-17 21:40:33,2023,46
+Minnesota,Pine,2023-07-19 21:00:01,2023,29
+Minnesota,Anoka,2023-07-06 17:26:22,2023,27
+Minnesota,Washington,2023-11-19 18:01:00,2023,47
+Minnesota,Cass,2023-06-12 16:28:30,2023,24
+Minnesota,Marshall,2023-05-03 20:42:39,2023,18
+Minnesota,Cass,2023-10-03 19:39:43,2023,40
+Minnesota,Brown,2023-12-12 21:46:27,2023,50
+Minnesota,Crow Wing,2023-08-29 02:34:27,2023,35
+Minnesota,Cass,2023-06-11 23:15:40,2023,24
+Minnesota,Crow Wing,2023-10-03 19:19:09,2023,40
+Minnesota,Cass,2023-10-03 18:31:34,2023,40
+Minnesota,Crow Wing,2023-11-15 19:10:28,2023,46
+Minnesota,Murray,2023-10-01 19:29:00,2023,40
+Minnesota,Clearwater,2023-09-26 22:22:00,2023,39
+Minnesota,Wadena,2024-02-17 19:30:54,2024,59
+Minnesota,Pine,2024-02-25 18:45:00,2024,61
+Minnesota,Clearwater,2024-03-04 21:21:00,2024,62
+Minnesota,Pine,2024-02-24 21:37:00,2024,60
+Minnesota,Morrison,2024-02-28 23:05:00,2024,61
+Minnesota,Goodhue,2024-02-26 21:30:00,2024,61
+Minnesota,St. Louis,2024-03-10 19:14:52,2024,63
+Minnesota,Morrison,2024-03-09 18:52:00,2024,62
+Minnesota,Sherburne,2023-12-25 14:38:00,2023,52
+Minnesota,Benton,2024-03-10 18:51:51,2024,63
+Minnesota,Chisago,2024-03-05 18:32:00,2024,62
+Minnesota,Anoka,2024-03-06 16:31:00,2024,62
+Minnesota,Isanti,2024-03-01 21:32:00,2024,61
+Minnesota,Chisago,2024-02-26 18:00:00,2024,61
+Minnesota,Itasca,2024-03-11 22:57:00,2024,63
+Minnesota,Chisago,2024-03-03 19:53:00,2024,62
+Minnesota,Anoka,2024-03-01 21:10:41,2024,61
+Minnesota,Isanti,2024-03-16 19:17:00,2024,63
+Minnesota,Pine,2024-03-14 18:39:11,2024,63
+Minnesota,Ramsey,2024-03-12 18:42:00,2024,63
+Minnesota,Isanti,2024-03-16 21:12:42,2024,63
+Minnesota,Isanti,2024-03-04 20:48:00,2024,62
+Minnesota,Isanti,2024-03-12 19:20:00,2024,63
+Minnesota,Isanti,2024-03-07 18:10:00,2024,62
+Minnesota,Anoka,2024-03-16 20:30:54,2024,63
+Minnesota,Isanti,2024-03-08 21:17:00,2024,62
+Minnesota,Isanti,2024-03-08 21:11:00,2024,62
+Minnesota,Chisago,2024-03-10 20:13:00,2024,63
+Minnesota,Anoka,2024-03-01 18:12:00,2024,61
+Minnesota,Anoka,2024-03-15 19:50:00,2024,63
+Minnesota,Isanti,2024-03-03 21:01:00,2024,62
+Minnesota,Chisago,2024-03-11 19:02:00,2024,63
+Minnesota,Washington,2024-03-14 18:33:00,2024,63
+Minnesota,Anoka,2024-03-03 22:23:00,2024,62
+Minnesota,Isanti,2024-03-10 19:18:00,2024,63
+Minnesota,Washington,2024-03-09 18:06:00,2024,62
+Minnesota,Isanti,2024-02-26 18:22:00,2024,61
+Minnesota,Chisago,2024-03-01 18:52:00,2024,61
+Minnesota,Isanti,2024-03-13 19:16:00,2024,63
+Minnesota,Isanti,2024-02-26 22:59:00,2024,61
+Minnesota,Itasca,2024-04-06 13:21:54,2024,66
+Minnesota,Cass,2024-04-07 14:31:00,2024,67
+Minnesota,Big Stone,2024-03-14 17:59:21,2024,63
+Minnesota,Lac qui Parle,2024-04-10 12:28:00,2024,67
+Minnesota,Cass,2024-04-06 17:25:20,2024,66
+Minnesota,Anoka,2024-03-03 22:58:00,2024,62
+Minnesota,Pine,2024-03-16 14:00:00,2024,63
+Minnesota,Chisago,2024-04-14 18:24:40,2024,68
+Minnesota,Anoka,2024-04-04 15:20:00,2024,66
+Minnesota,Chisago,2024-04-13 15:03:00,2024,67
+Minnesota,Anoka,2024-04-14 16:53:00,2024,68
+Minnesota,Anoka,2024-04-06 22:46:00,2024,66
+Minnesota,Pine,2024-04-14 17:59:00,2024,68
+Minnesota,Pine,2024-02-25 17:02:00,2024,61
+Minnesota,Wabasha,2024-03-13 15:02:00,2024,63
+Minnesota,Goodhue,2024-03-12 21:00:00,2024,63
+Minnesota,St. Louis,2024-04-24 20:46:18,2024,69
+Minnesota,Carlton,2024-02-22 20:57:00,2024,60
+Minnesota,Carlton,2024-02-24 21:16:00,2024,60
+Minnesota,Itasca,2024-02-25 20:04:00,2024,61
+Minnesota,Carlton,2024-03-09 22:57:00,2024,62
+Minnesota,St. Louis,2024-03-06 19:56:02,2024,62
+Minnesota,St. Louis,2024-02-26 19:11:57,2024,61
+Minnesota,St. Louis,2024-03-07 23:10:33,2024,62
+Minnesota,St. Louis,2024-02-26 22:28:04,2024,61
+Minnesota,Itasca,2024-03-06 19:36:31,2024,62
+Minnesota,Carlton,2024-02-26 19:31:01,2024,61
+Minnesota,Aitkin,2024-03-10 19:15:00,2024,63
+Minnesota,St. Louis,2024-02-25 21:30:00,2024,61
+Minnesota,Carlton,2024-03-10 22:08:24,2024,63
+Minnesota,St. Louis,2024-03-12 21:51:32,2024,63
+Minnesota,Carlton,2024-03-19 01:07:00,2024,64
+Minnesota,St. Louis,2024-03-21 21:02:00,2024,64
+Minnesota,Carlton,2024-03-11 19:35:18,2024,63
+Minnesota,Carlton,2024-03-11 19:13:24,2024,63
+Minnesota,St. Louis,2024-03-19 22:22:00,2024,64
+Minnesota,Carlton,2024-03-14 20:39:40,2024,63
+Minnesota,St. Louis,2024-03-20 18:41:22,2024,64
+Minnesota,Aitkin,2024-03-19 19:57:00,2024,64
+Minnesota,St. Louis,2024-03-12 00:38:00,2024,63
+Minnesota,St. Louis,2024-03-11 19:00:46,2024,63
+Minnesota,St. Louis,2024-03-10 23:37:16,2024,63
+Minnesota,St. Louis,2024-03-21 23:40:00,2024,64
+Minnesota,Carlton,2024-03-11 21:48:00,2024,63
+Minnesota,Itasca,2024-03-23 19:17:00,2024,64
+Minnesota,Itasca,2024-04-06 21:16:00,2024,66
+Minnesota,Carlton,2024-03-10 23:12:22,2024,63
+Minnesota,Carlton,2024-03-10 23:51:12,2024,63
+Minnesota,Carlton,2024-03-16 19:54:00,2024,63
+Minnesota,St. Louis,2024-03-23 20:53:00,2024,64
+Minnesota,Carlton,2024-03-10 22:11:33,2024,63
+Minnesota,Aitkin,2024-04-07 21:04:00,2024,67
+Minnesota,Marshall,2024-04-09 00:37:35,2024,67
+Minnesota,Polk,2024-04-12 15:53:51,2024,67
+Minnesota,Polk,2024-01-25 17:59:00,2024,56
+Minnesota,Polk,2024-04-23 20:00:00,2024,69
+Minnesota,Clay,2024-04-04 15:35:00,2024,66
+Minnesota,Clay,2024-04-04 15:58:00,2024,66
+Minnesota,Otter Tail,2024-04-05 14:36:10,2024,66
+Minnesota,Otter Tail,2024-01-23 19:37:00,2024,56
+Minnesota,Otter Tail,2024-04-24 13:57:00,2024,69
+Minnesota,Otter Tail,2024-03-12 13:25:31,2024,63
+Minnesota,Otter Tail,2024-04-04 13:20:14,2024,66
+Minnesota,Grant,2024-04-12 14:58:58,2024,67
+Minnesota,Stevens,2024-01-17 15:00:00,2024,55
+Minnesota,Pope,2024-01-24 15:00:00,2024,56
+Minnesota,Stevens,2024-01-24 15:00:00,2024,56
+Minnesota,Stevens,2024-01-24 15:00:00,2024,56
+Minnesota,Meeker,2024-04-20 21:03:00,2024,68
+Minnesota,McLeod,2024-04-24 14:08:00,2024,69
+Minnesota,Meeker,2024-03-14 14:36:36,2024,63
+Minnesota,Big Stone,2024-04-24 21:36:00,2024,69
+Minnesota,Big Stone,2024-04-22 13:20:00,2024,69
+Minnesota,Big Stone,2024-01-09 15:00:00,2024,54
+Minnesota,Big Stone,2024-04-24 13:59:00,2024,69
+Minnesota,Rock,2024-04-24 12:41:12,2024,69
+Minnesota,Lincoln,2024-03-13 17:30:01,2024,63
+Minnesota,Cottonwood,2024-04-21 11:51:16,2024,69
+Minnesota,Cottonwood,2024-04-14 11:21:30,2024,68
+Minnesota,Jackson,2024-04-14 19:30:00,2024,68
+Minnesota,Blue Earth,2024-04-10 12:08:00,2024,67
+Minnesota,Blue Earth,2024-04-21 21:10:00,2024,69
+Minnesota,Sherburne,2024-04-24 14:06:00,2024,69
+Minnesota,Sherburne,2024-03-27 13:37:00,2024,65
+Minnesota,Sherburne,2024-04-25 12:52:00,2024,69
+Minnesota,Sherburne,2024-01-09 19:00:00,2024,54
+Minnesota,Sherburne,2024-04-01 13:59:01,2024,66
+Minnesota,Sherburne,2024-04-15 13:01:11,2024,68
+Minnesota,Sherburne,2024-01-17 15:00:00,2024,55
+Minnesota,Sherburne,2024-02-16 14:01:19,2024,59
+Minnesota,Sherburne,2024-02-20 14:52:39,2024,60
+Minnesota,Sherburne,2024-01-18 15:00:00,2024,55
+Minnesota,Morrison,2024-03-14 13:33:30,2024,63
+Minnesota,Morrison,2024-03-14 13:22:12,2024,63
+Minnesota,Morrison,2024-03-14 20:40:30,2024,63
+Minnesota,Morrison,2024-03-13 13:57:49,2024,63
+Minnesota,Benton,2024-03-15 13:18:53,2024,63
+Minnesota,Sherburne,2024-04-14 15:35:00,2024,68
+Minnesota,Isanti,2024-04-18 18:20:00,2024,68
+Minnesota,Anoka,2024-04-14 16:54:00,2024,68
+Minnesota,Wabasha,2024-04-13 20:13:00,2024,67
+Minnesota,Sherburne,2024-03-01 20:13:06,2024,61
+Minnesota,Sherburne,2024-03-06 17:03:26,2024,62
+Minnesota,Mille Lacs,2024-03-10 20:25:00,2024,63
+Minnesota,Sherburne,2024-03-06 21:21:25,2024,62
+Minnesota,Sherburne,2024-03-10 22:00:17,2024,63
+Minnesota,Mille Lacs,2024-04-06 21:00:00,2024,66
+Minnesota,Mille Lacs,2024-04-06 18:32:31,2024,66
+Minnesota,Todd,2024-03-14 23:12:00,2024,63
+Minnesota,Morrison,2024-03-10 20:17:55,2024,63
+Minnesota,Morrison,2024-03-15 02:45:00,2024,63
+Minnesota,Mille Lacs,2024-03-12 20:09:52,2024,63
+Minnesota,Mille Lacs,2024-03-19 20:32:39,2024,64
+Minnesota,Morrison,2024-03-20 18:44:43,2024,64
+Minnesota,Morrison,2024-03-09 23:56:00,2024,62
+Minnesota,Mille Lacs,2024-03-21 18:47:58,2024,64
+Minnesota,Morrison,2024-04-21 17:53:03,2024,69
+Minnesota,Morrison,2024-03-14 20:37:31,2024,63
+Minnesota,Mahnomen,2024-04-13 17:00:00,2024,67
+Minnesota,Becker,2024-04-26 15:48:15,2024,69
+Minnesota,Mahnomen,2024-04-12 03:00:00,2024,67
+Minnesota,Morrison,2024-04-15 17:51:00,2024,68
+Minnesota,Todd,2024-03-10 21:43:28,2024,63
+Minnesota,Swift,2024-04-07 03:23:02,2024,67
+Minnesota,Swift,2024-03-08 20:00:00,2024,62
+Minnesota,Yellow Medicine,2024-05-06 01:18:00,2024,71
+Minnesota,Brown,2024-03-18 19:20:00,2024,64
+Minnesota,Lac qui Parle,2024-04-06 18:50:00,2024,66
+Minnesota,Beltrami,2024-04-26 15:38:00,2024,69
+Minnesota,Lac qui Parle,2024-04-03 16:04:00,2024,66
+Minnesota,Yellow Medicine,2024-03-16 20:24:00,2024,63
+Minnesota,Itasca,2024-04-22 04:47:54,2024,69
+Minnesota,Itasca,2024-04-24 22:22:00,2024,69
+Minnesota,Cass,2024-04-07 00:03:31,2024,67
+Minnesota,Itasca,2024-04-16 15:58:48,2024,68
+Minnesota,Chisago,2024-05-13 21:11:00,2024,72
+Minnesota,Chisago,2024-05-10 19:23:00,2024,71
+Minnesota,Isanti,2024-04-21 20:34:00,2024,69
+Minnesota,Anoka,2024-05-15 20:53:00,2024,72
+Minnesota,Mille Lacs,2024-03-08 04:24:00,2024,62
+Minnesota,Sherburne,2024-04-25 22:01:29,2024,69
+Minnesota,Washington,2024-04-16 16:03:00,2024,68
+Minnesota,Washington,2024-04-21 22:18:00,2024,69
+Minnesota,Mille Lacs,2024-03-19 18:34:00,2024,64
+Minnesota,Isanti,2024-04-21 18:38:00,2024,69
+Minnesota,Todd,2024-03-15 00:58:08,2024,63
+Minnesota,Fillmore,2024-04-06 18:00:00,2024,66
+Minnesota,Morrison,2024-05-11 20:53:00,2024,71
+Minnesota,Todd,2024-03-13 21:13:38,2024,63
+Minnesota,Anoka,2024-05-14 18:57:00,2024,72
+Minnesota,Morrison,2024-03-09 07:55:00,2024,62
+Minnesota,Anoka,2024-04-24 21:06:41,2024,69
+Minnesota,Benton,2024-04-15 21:16:32,2024,68
+Minnesota,Crow Wing,2024-03-11 18:18:00,2024,63
+Minnesota,St. Louis,2024-02-18 23:13:00,2024,60
+Minnesota,St. Louis,2024-03-09 22:46:00,2024,62
+Minnesota,Carlton,2024-02-24 21:28:00,2024,60
+Minnesota,Carlton,2024-04-10 19:32:48,2024,67
+Minnesota,Itasca,2024-04-06 21:48:00,2024,66
+Minnesota,St. Louis,2024-04-21 19:27:00,2024,69
+Minnesota,St. Louis,2024-05-03 17:27:00,2024,70
+Minnesota,Itasca,2024-04-14 18:23:09,2024,68
+Minnesota,St. Louis,2024-04-16 01:37:00,2024,68
+Minnesota,St. Louis,2024-04-16 17:53:28,2024,68
+Minnesota,Carlton,2024-05-06 17:49:00,2024,71
+Minnesota,St. Louis,2024-04-16 17:59:59,2024,68
+Minnesota,Itasca,2024-04-25 16:57:24,2024,69
+Minnesota,St. Louis,2024-05-06 16:58:06,2024,71
+Minnesota,St. Louis,2024-04-13 19:30:00,2024,67
+Minnesota,St. Louis,2024-05-03 20:01:00,2024,70
+Minnesota,Itasca,2024-04-16 17:01:46,2024,68
+Minnesota,St. Louis,2024-04-16 14:12:00,2024,68
+Minnesota,Itasca,2024-04-25 20:46:06,2024,69
+Minnesota,Itasca,2024-04-13 17:47:19,2024,67
+Minnesota,Itasca,2024-05-03 21:23:58,2024,70
+Minnesota,St. Louis,2024-04-16 22:34:31,2024,68
+Minnesota,Itasca,2024-04-13 20:32:00,2024,67
+Minnesota,Itasca,2024-04-25 18:58:00,2024,69
+Minnesota,Itasca,2024-05-11 18:49:21,2024,71
+Minnesota,Itasca,2024-05-09 22:04:41,2024,71
+Minnesota,St. Louis,2024-05-15 08:13:00,2024,72
+Minnesota,Cass,2024-05-12 20:25:00,2024,72
+Minnesota,St. Louis,2024-05-14 19:23:39,2024,72
+Minnesota,St. Louis,2024-05-12 20:06:00,2024,72
+Minnesota,St. Louis,2024-05-09 17:54:00,2024,71
+Minnesota,Itasca,2024-05-14 00:44:00,2024,72
+Minnesota,Beltrami,2024-05-15 15:20:15,2024,72
+Minnesota,Clearwater,2024-04-24 12:00:00,2024,69
+Minnesota,Beltrami,2024-03-14 16:38:00,2024,63
+Minnesota,Itasca,2024-05-06 18:09:00,2024,71
+Minnesota,Clearwater,2024-03-23 17:47:00,2024,64
+Minnesota,Beltrami,2024-05-12 16:25:35,2024,72
+Minnesota,Clearwater,2024-03-22 17:00:00,2024,64
+Minnesota,Big Stone,2024-05-16 18:00:18,2024,72
+Minnesota,Morrison,2024-03-16 06:10:00,2024,63
+Minnesota,Todd,2024-04-25 19:54:37,2024,69
+Minnesota,Morrison,2024-02-25 22:00:00,2024,61
+Minnesota,Todd,2024-02-21 14:30:00,2024,60
+Minnesota,Todd,2024-04-06 21:25:00,2024,66
+Minnesota,Morrison,2024-03-03 20:18:00,2024,62
+Minnesota,Stevens,2024-04-13 19:00:00,2024,67
+Minnesota,St. Louis,2024-04-21 20:22:00,2024,69
+Minnesota,St. Louis,2024-04-10 18:26:00,2024,67
+Minnesota,St. Louis,2024-04-19 14:33:36,2024,68
+Minnesota,Lake,2024-05-15 18:53:39,2024,72
+Minnesota,Marshall,2024-05-09 12:41:00,2024,71
+Minnesota,Mahnomen,2024-05-09 20:14:31,2024,71
+Minnesota,Mahnomen,2024-05-04 15:19:00,2024,70
+Minnesota,Becker,2024-05-13 14:26:11,2024,72
+Minnesota,Becker,2024-04-15 17:57:00,2024,68
+Minnesota,Becker,2024-05-08 17:09:00,2024,71
+Minnesota,Becker,2024-05-14 15:24:10,2024,72
+Minnesota,Clay,2024-05-11 13:46:18,2024,71
+Minnesota,Clay,2024-05-04 15:08:00,2024,70
+Minnesota,Clay,2024-04-24 14:04:00,2024,69
+Minnesota,Otter Tail,2024-05-13 13:23:00,2024,72
+Minnesota,Wilkin,2024-05-14 12:31:50,2024,72
+Minnesota,Otter Tail,2024-05-09 19:11:00,2024,71
+Minnesota,Otter Tail,2024-05-05 14:40:00,2024,71
+Minnesota,Otter Tail,2024-05-11 14:00:00,2024,71
+Minnesota,Otter Tail,2024-05-03 13:25:06,2024,70
+Minnesota,Otter Tail,2024-05-08 15:27:26,2024,71
+Minnesota,Otter Tail,2024-05-19 15:09:14,2024,73
+Minnesota,Pope,2024-05-11 12:53:00,2024,71
+Minnesota,Stevens,2024-05-08 18:22:17,2024,71
+Minnesota,Stevens,2024-04-30 19:42:02,2024,70
+Minnesota,Stevens,2024-05-20 16:54:00,2024,73
+Minnesota,Douglas,2024-05-29 12:51:00,2024,74
+Minnesota,Stevens,2024-05-16 17:40:11,2024,72
+Minnesota,Big Stone,2024-05-14 16:33:00,2024,72
+Minnesota,Big Stone,2024-05-14 13:23:56,2024,72
+Minnesota,Big Stone,2024-05-13 14:34:16,2024,72
+Minnesota,Lac qui Parle,2024-05-01 21:37:00,2024,70
+Minnesota,Lac qui Parle,2024-05-09 12:01:00,2024,71
+Minnesota,Lac qui Parle,2024-05-12 13:05:00,2024,72
+Minnesota,Lac qui Parle,2024-05-09 13:25:14,2024,71
+Minnesota,Swift,2024-05-03 19:55:00,2024,70
+Minnesota,Lac qui Parle,2024-05-06 18:44:44,2024,71
+Minnesota,Lincoln,2024-05-04 18:35:00,2024,70
+Minnesota,Yellow Medicine,2024-05-03 15:36:00,2024,70
+Minnesota,Swift,2024-05-17 12:07:21,2024,72
+Minnesota,Kandiyohi,2024-05-03 13:40:00,2024,70
+Minnesota,Pope,2024-05-28 16:42:21,2024,74
+Minnesota,Pope,2024-01-24 15:00:00,2024,56
+Minnesota,Stearns,2024-05-10 13:10:49,2024,71
+Minnesota,Stearns,2024-01-31 15:00:00,2024,57
+Minnesota,Morrison,2024-05-06 12:52:00,2024,71
+Minnesota,Wright,2024-05-11 12:36:16,2024,71
+Minnesota,Grant,2024-05-06 15:50:00,2024,71
+Minnesota,Renville,2024-05-01 13:18:06,2024,70
+Minnesota,Renville,2024-05-01 13:12:54,2024,70
+Minnesota,Meeker,2024-05-12 14:55:07,2024,72
+Minnesota,Itasca,2024-04-21 20:50:00,2024,69
+Minnesota,Carlton,2024-03-11 21:05:37,2024,63
+Minnesota,Aitkin,2024-02-20 19:35:00,2024,60
+Minnesota,St. Louis,2024-03-23 21:44:55,2024,64
+Minnesota,Beltrami,2024-05-28 19:42:58,2024,74
+Minnesota,Lake,2024-03-12 19:35:09,2024,63
+Minnesota,Murray,2024-04-13 21:14:00,2024,67
+Minnesota,Waseca,2024-03-03 18:00:00,2024,62
+Minnesota,Cook,2024-09-22 19:08:29,2024,91
+Minnesota,St. Louis,2024-07-16 16:45:34,2024,81
+Minnesota,Itasca,2024-09-27 16:17:25,2024,91
+Minnesota,St. Louis,2024-09-01 21:43:00,2024,88
+Minnesota,Itasca,2024-10-08 20:26:26,2024,93
+Minnesota,St. Louis,2024-10-03 19:09:57,2024,92
+Minnesota,St. Louis,2024-09-28 20:38:00,2024,91
+Minnesota,Itasca,2024-09-27 18:07:17,2024,91
+Minnesota,Itasca,2024-09-27 20:33:00,2024,91
+Minnesota,Lake,2024-10-09 19:43:50,2024,93
+Minnesota,St. Louis,2024-09-16 18:40:55,2024,90
+Minnesota,St. Louis,2024-10-03 17:25:00,2024,92
+Minnesota,Becker,2024-04-15 21:01:54,2024,68
+Minnesota,Kandiyohi,2024-04-06 18:09:00,2024,66
+Minnesota,St. Louis,2024-10-28 19:54:34,2024,96
+Minnesota,Aitkin,2024-03-10 23:40:00,2024,63
+Minnesota,Cook,2024-10-08 22:03:00,2024,93
+Minnesota,Morrison,2024-10-10 03:55:00,2024,93
+Minnesota,Mille Lacs,2024-03-09 20:59:00,2024,62
+Minnesota,Sherburne,2024-07-01 18:39:32,2024,79
+Minnesota,Sherburne,2024-05-11 22:40:00,2024,71
+Minnesota,Sherburne,2024-10-24 16:32:36,2024,95
+Minnesota,Sherburne,2024-10-29 18:39:00,2024,96
+Minnesota,Anoka,2024-10-28 20:01:00,2024,96
+Minnesota,St. Louis,2024-10-17 22:20:23,2024,94
+Minnesota,Goodhue,2024-10-23 20:12:15,2024,95
+Minnesota,Isanti,2024-10-22 21:42:02,2024,95
+Minnesota,Itasca,2024-10-08 22:12:49,2024,93
+Minnesota,Itasca,2024-10-11 13:19:29,2024,93
+Minnesota,St. Louis,2024-09-29 18:35:00,2024,92
+Minnesota,Becker,2024-03-11 02:45:00,2024,63
+Minnesota,Koochiching,2024-10-22 11:53:00,2024,95
+Minnesota,Becker,2024-05-04 15:33:00,2024,70
+Minnesota,Mahnomen,2024-04-05 19:26:00,2024,66
+Minnesota,Mille Lacs,2024-04-07 01:25:00,2024,67
+Minnesota,Becker,2024-04-13 17:15:00,2024,67
+Minnesota,Cass,2024-10-27 22:05:30,2024,96
+Minnesota,Cass,2024-10-18 19:40:53,2024,94
+Minnesota,Lake,2024-09-10 16:40:00,2024,89
+Minnesota,Pine,2024-10-10 18:45:45,2024,93
+Minnesota,Pine,2024-10-11 20:47:52,2024,93
+Minnesota,Pine,2024-10-17 20:59:00,2024,94
+Minnesota,Clearwater,2024-10-26 22:25:52,2024,95
+Minnesota,Roseau,2024-10-18 05:19:15,2024,94
+Minnesota,Roseau,2024-05-12 01:12:50,2024,72
+Minnesota,Kittson,2024-03-23 19:46:00,2024,64
+Minnesota,Kittson,2024-02-25 22:00:00,2024,61
+Minnesota,Kittson,2024-04-05 01:16:00,2024,66
+Minnesota,Kittson,2024-10-07 22:00:00,2024,93
+Minnesota,Crow Wing,2024-10-27 14:47:00,2024,96
+Minnesota,Crow Wing,2024-10-16 23:11:00,2024,94
+Minnesota,Crow Wing,2024-10-17 15:05:00,2024,94
+Minnesota,Kittson,2024-03-25 16:15:00,2024,65
+Minnesota,Crow Wing,2024-03-17 03:11:00,2024,64
+Minnesota,Morrison,2024-11-12 20:16:00,2024,98
+Minnesota,Crow Wing,2024-09-30 23:14:00,2024,92
+Minnesota,Marshall,2024-03-23 20:44:26,2024,64
+Minnesota,Roseau,2024-05-11 22:08:21,2024,71
+Minnesota,Roseau,2024-10-19 20:28:00,2024,94
+Minnesota,Roseau,2024-05-10 22:16:03,2024,71
+Minnesota,Roseau,2024-04-26 04:30:00,2024,69
+Minnesota,Roseau,2024-04-13 13:00:00,2024,67
+Minnesota,Roseau,2024-03-23 20:51:00,2024,64
+Minnesota,Roseau,2024-03-23 18:20:00,2024,64
+Minnesota,Hubbard,2024-10-25 21:41:00,2024,95
+Minnesota,Roseau,2024-03-23 19:40:00,2024,64
+Minnesota,Clearwater,2024-04-14 19:33:00,2024,68
+Minnesota,Marshall,2024-03-10 01:38:00,2024,63
+Minnesota,Beltrami,2024-03-22 01:29:00,2024,64
+Minnesota,Beltrami,2024-04-15 15:26:59,2024,68
+Minnesota,Beltrami,2024-05-17 23:58:00,2024,72
+Minnesota,Beltrami,2024-03-22 18:40:46,2024,64
+Minnesota,Anoka,2024-10-22 17:11:00,2024,95
+Minnesota,Anoka,2024-10-22 20:10:24,2024,95
+Minnesota,Chisago,2024-10-21 19:45:00,2024,95
+Minnesota,Chisago,2024-10-22 16:48:00,2024,95
+Minnesota,Morrison,2024-10-18 16:40:48,2024,94
+Minnesota,Isanti,2024-10-21 10:00:00,2024,95
+Minnesota,Yellow Medicine,2024-10-17 21:05:00,2024,94
+Minnesota,Stevens,2024-10-16 20:00:00,2024,94
+Minnesota,Chisago,2024-07-10 16:33:00,2024,80
+Minnesota,Anoka,2024-10-09 18:15:00,2024,93
+Minnesota,Pope,2024-03-18 21:30:00,2024,64
+Minnesota,Anoka,2024-10-18 20:29:00,2024,94
+Minnesota,Goodhue,2024-10-17 23:09:56,2024,94
+Minnesota,Mille Lacs,2024-03-12 21:09:22,2024,63
+Minnesota,Sherburne,2024-05-11 15:58:00,2024,71
+Minnesota,Mille Lacs,2024-05-26 23:55:00,2024,74
+Minnesota,Chisago,2024-09-17 21:16:00,2024,90
+Minnesota,Sherburne,2024-10-17 14:54:39,2024,94
+Minnesota,Otter Tail,2024-04-09 19:04:00,2024,67
+Minnesota,Otter Tail,2024-02-26 20:24:48,2024,61
+Minnesota,Crow Wing,2024-03-03 02:05:00,2024,62
+Minnesota,Crow Wing,2024-04-05 14:08:52,2024,66
+Minnesota,Crow Wing,2024-04-20 19:07:36,2024,68
+Minnesota,Otter Tail,2024-03-03 18:09:00,2024,62
+Minnesota,Wadena,2024-04-10 19:28:38,2024,67
+Minnesota,Otter Tail,2024-04-06 20:27:41,2024,66
+Minnesota,Otter Tail,2024-05-09 20:18:00,2024,71
+Minnesota,Otter Tail,2024-04-24 19:12:22,2024,69
+Minnesota,Otter Tail,2024-05-06 02:12:00,2024,71
+Minnesota,Otter Tail,2024-03-15 21:27:32,2024,63
+Minnesota,Wadena,2024-04-13 23:03:19,2024,67
+Minnesota,Wadena,2024-04-23 22:11:48,2024,69
+Minnesota,Cass,2024-05-23 21:11:00,2024,73
+Minnesota,Crow Wing,2024-03-11 18:32:00,2024,63
+Minnesota,Cass,2024-03-18 21:28:00,2024,64
+Minnesota,Crow Wing,2024-03-07 00:03:00,2024,62
+Minnesota,Cass,2024-04-23 20:37:48,2024,69
+Minnesota,Crow Wing,2024-04-10 22:13:56,2024,67
+Minnesota,Cass,2024-05-11 23:22:00,2024,71
+Minnesota,Crow Wing,2024-04-14 00:10:00,2024,68
+Minnesota,Crow Wing,2024-05-18 22:00:23,2024,72
+Minnesota,Cass,2024-05-06 20:17:06,2024,71
+Minnesota,Cass,2024-03-11 01:14:00,2024,63
+Minnesota,Cass,2024-04-20 19:26:56,2024,68
+Minnesota,Wadena,2024-04-25 20:15:00,2024,69
+Minnesota,Wadena,2024-02-17 19:30:00,2024,59
+Minnesota,Cass,2024-03-10 17:04:00,2024,63
+Minnesota,Crow Wing,2024-04-21 20:12:55,2024,69
+Minnesota,Wadena,2024-04-06 19:10:02,2024,66
+Minnesota,Otter Tail,2024-03-06 22:43:00,2024,62
+Minnesota,Crow Wing,2024-04-21 20:42:00,2024,69
+Minnesota,Cass,2024-03-07 02:21:00,2024,62
+Minnesota,Crow Wing,2024-02-29 19:56:00,2024,61
+Minnesota,Crow Wing,2024-05-19 18:54:00,2024,73
+Minnesota,Crow Wing,2024-05-19 23:18:16,2024,73
+Minnesota,Cass,2024-04-14 19:35:34,2024,68
+Minnesota,Cass,2024-04-15 22:39:38,2024,68
+Minnesota,Crow Wing,2024-05-06 20:31:00,2024,71
+Minnesota,Cass,2024-02-26 20:01:53,2024,61
+Minnesota,Cass,2024-03-12 21:53:02,2024,63
+Minnesota,Cass,2024-03-17 20:07:00,2024,64
+Minnesota,Cass,2024-05-15 15:01:16,2024,72
+Minnesota,Crow Wing,2024-04-16 03:05:00,2024,68
+Minnesota,Crow Wing,2024-04-14 16:00:42,2024,68
+Minnesota,Wadena,2024-03-11 19:33:05,2024,63
+Minnesota,Crow Wing,2024-03-02 22:48:00,2024,61
+Minnesota,Crow Wing,2024-04-21 22:22:21,2024,69
+Minnesota,Crow Wing,2024-03-12 22:21:37,2024,63
+Minnesota,Crow Wing,2024-04-04 00:29:00,2024,66
+Minnesota,Wadena,2024-05-03 18:27:27,2024,70
+Minnesota,Wadena,2024-04-13 22:19:00,2024,67
+Minnesota,Becker,2024-04-25 21:41:58,2024,69
+Minnesota,Becker,2024-04-07 03:39:00,2024,67
+Minnesota,Wadena,2024-04-06 19:47:00,2024,66
+Minnesota,Wadena,2024-03-10 18:05:01,2024,63
+Minnesota,Becker,2024-05-14 21:59:00,2024,72
+Minnesota,Wadena,2024-04-10 18:54:59,2024,67
+Minnesota,Becker,2024-05-11 22:05:45,2024,71
+Minnesota,Becker,2024-05-11 20:05:36,2024,71
+Minnesota,Becker,2024-05-13 19:00:00,2024,72
+Minnesota,Becker,2024-05-09 21:05:18,2024,71
+Minnesota,Becker,2024-03-18 17:34:00,2024,64
+Minnesota,Hubbard,2024-04-04 22:52:00,2024,66
+Minnesota,Mahnomen,2024-04-06 13:40:00,2024,66
+Minnesota,Mahnomen,2024-04-02 20:20:00,2024,66
+Minnesota,Clearwater,2024-04-24 19:48:21,2024,69
+Minnesota,Hubbard,2024-05-11 19:46:00,2024,71
+Minnesota,Hubbard,2024-04-20 22:07:00,2024,68
+Minnesota,Clearwater,2024-04-21 19:55:27,2024,69
+Minnesota,Mahnomen,2024-10-06 03:15:00,2024,93
+Minnesota,Cass,2024-05-30 20:14:07,2024,74
+Minnesota,Cass,2024-05-13 01:26:00,2024,72
+Minnesota,Hubbard,2024-04-06 17:54:25,2024,66
+Minnesota,Cass,2024-04-21 21:34:59,2024,69
+Minnesota,Cass,2024-04-06 21:43:52,2024,66
+Minnesota,Cass,2024-03-21 22:05:00,2024,64
+Minnesota,Cass,2024-05-11 22:38:01,2024,71
+Minnesota,Cass,2024-04-12 17:00:23,2024,67
+Minnesota,Cass,2024-04-15 18:15:00,2024,68
+Minnesota,Beltrami,2024-04-12 19:00:08,2024,67
+Minnesota,Beltrami,2024-04-25 15:45:00,2024,69
+Minnesota,Beltrami,2024-02-26 20:03:03,2024,61
+Minnesota,Beltrami,2024-04-21 21:19:35,2024,69
+Minnesota,Beltrami,2024-05-05 18:32:50,2024,71
+Minnesota,Hubbard,2024-04-25 20:23:37,2024,69
+Minnesota,Beltrami,2024-04-25 18:10:43,2024,69
+Minnesota,Beltrami,2024-10-17 19:44:00,2024,94
+Minnesota,Clearwater,2024-10-04 18:34:43,2024,92
+Minnesota,Clearwater,2024-04-21 20:36:56,2024,69
+Minnesota,Beltrami,2024-04-16 15:03:00,2024,68
+Minnesota,Beltrami,2024-03-22 21:24:00,2024,64
+Minnesota,Beltrami,2024-07-31 17:17:00,2024,83
+Minnesota,Beltrami,2024-02-26 21:52:55,2024,61
+Minnesota,Beltrami,2024-04-16 19:40:12,2024,68
+Minnesota,Polk,2024-04-21 20:35:52,2024,69
+Minnesota,Clearwater,2024-04-21 20:56:00,2024,69
+Minnesota,Clearwater,2024-04-24 22:59:22,2024,69
+Minnesota,Polk,2024-04-25 19:07:55,2024,69
+Minnesota,Polk,2024-03-23 20:00:00,2024,64
+Minnesota,Marshall,2024-03-25 17:26:37,2024,65
+Minnesota,Marshall,2024-04-07 00:02:00,2024,67
+Minnesota,Beltrami,2024-10-18 11:00:00,2024,94
+Minnesota,Sherburne,2024-10-18 21:18:39,2024,94
+Minnesota,Beltrami,2024-04-24 00:30:00,2024,69
+Minnesota,Clay,2023-04-28 23:00:01,2023,17
