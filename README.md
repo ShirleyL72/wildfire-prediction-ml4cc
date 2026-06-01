@@ -6,7 +6,7 @@ Wildfires are both a driver and consequence of climate change. We built a machin
 - Prior studies rely on noisy satellite fire data or only weather variables.
 - Our work uses authoritative WFIGS fire perimeters and adds NDVI.
 - Data from five states (CA, TX, MN, AZ, WA) captures diverse climate conditions.
-![Wildfire Count by State (2023-2024)](plots/wildfire_count.png.png)
+![Wildfire Count by State (2023-2024)](plots/wildfire_count.png)
 
 ## Methods
 
